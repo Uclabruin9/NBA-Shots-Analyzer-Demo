@@ -131,7 +131,6 @@ def render_shot_chart(df, title: str):
     ax.set_title(title, fontsize=9)
     st.pyplot(fig, use_container_width=False)
 
-
 def render_zone_heatmap(df, title: str):
     if df.empty:
         st.info(f"No zone stats available for {title}.")
@@ -141,17 +140,18 @@ def render_zone_heatmap(df, title: str):
     df.columns = [c.lower() for c in df.columns]
 
     area_labels = {
-        "Back Court(BC)": "Back Court",
+        "Back Court(BC)": "Back",
         "Center(C)": "Center",
-        "Left Side Center(LC)": "Left Center",
-        "Left Side(L)": "Left Wing",
-        "Right Side Center(RC)": "Right Center",
-        "Right Side(R)": "Right Wing",
+        "Left Side Center(LC)": "L Center",
+        "Left Side(L)": "L Wing",
+        "Right Side Center(RC)": "R Center",
+        "Right Side(R)": "R Wing",
     }
 
     df["shot_zone_area_clean"] = df["shot_zone_area"].replace(area_labels)
 
-    df = df[df["shot_zone_area_clean"] != "Back Court"]
+    df = df[df["shot_zone_area_clean"] != "Back"]
+    df = df[df["fga"] >= 10]
 
     chart = (
         alt.Chart(df)
@@ -161,10 +161,10 @@ def render_zone_heatmap(df, title: str):
                 "shot_zone_area_clean:N",
                 sort=[
                     "Center",
-                    "Left Center",
-                    "Left Wing",
-                    "Right Center",
-                    "Right Wing",
+                    "L Center",
+                    "L Wing",
+                    "R Center",
+                    "R Wing",
                 ],
                 title="Area",
                 axis=alt.Axis(
@@ -180,15 +180,16 @@ def render_zone_heatmap(df, title: str):
             ),
             color=alt.Color(
                 "pct_diff:Q",
-                title="FG% vs League",
+                title="FG% vs Player Pool",
                 scale=alt.Scale(scheme="redyellowgreen"),
+                legend=alt.Legend(format="+.0%"),
             ),
             tooltip=[
                 alt.Tooltip("shot_zone_basic:N", title="Zone"),
                 alt.Tooltip("shot_zone_area_clean:N", title="Area"),
-                alt.Tooltip("fg_pct:Q", format=".3f", title="Player FG%"),
-                alt.Tooltip("league_fg_pct:Q", format=".3f", title="League FG%"),
-                alt.Tooltip("pct_diff:Q", format=".3f", title="Diff vs League"),
+                alt.Tooltip("fg_pct:Q", format=".1%", title="Player FG%"),
+                alt.Tooltip("league_fg_pct:Q", format=".1%", title="Player Pool FG%"),
+                alt.Tooltip("pct_diff:Q", format="+.1%", title="Diff vs Player Pool"),
                 alt.Tooltip("fga:Q", title="Player FGA"),
             ],
         )
@@ -230,7 +231,7 @@ def main():
             **Features**
             - Season-level statistics
             - Shot location visualization
-            - Shooting efficiency vs league average
+            - Shooting efficiency vs Player Pool average
             - Player-to-player comparison
 
             **Tech Stack**
@@ -296,7 +297,7 @@ def main():
         else:
             st.info("No stats for this player/season.")
 
-    st.markdown("## Zone FG% vs League")
+    st.markdown("## Zone FG% vs Player Pool")
 
     zones_a = get_zone_stats(player_id_a, season_a)
     zones_b = get_zone_stats(player_id_b, season_b)
