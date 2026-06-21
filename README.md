@@ -30,5 +30,5 @@ https://nba-shots-analyzer-demo-9.streamlit.app/
 
 ## Notes
 
-The original project used Snowflake and dbt for data warehousing and transformations. The public demo utilizes exported CSV mart tables to enable deployment without requiring Snowflake credentials.
+The original project used Snowflake and dbt for data warehousing and transformations. The public demo utilizes exported CSV mart tables to enable deployment without requiring Snowflake credentials. To see that pipeline, check the link here: https://github.com/Uclabruin9/Data-Warehousing-Final-Project
 
