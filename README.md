@@ -24,6 +24,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Demo Link
+
+https://nba-shots-analyzer-demo-9.streamlit.app/
+
 ## Notes
 
 The original project used Snowflake and dbt for data warehousing and transformations. The public demo utilizes exported CSV mart tables to enable deployment without requiring Snowflake credentials.
