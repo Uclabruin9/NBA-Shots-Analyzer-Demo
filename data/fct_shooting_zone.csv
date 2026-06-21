@@ -1,0 +1,1476 @@
+player_id,full_name,first_name,last_name,season,shot_zone_basic,shot_zone_area,fga,fgm,fg_pct,league_fga,league_fgm,league_fg_pct,pct_diff
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Above the Break 3,Center(C),19,5,0.2632,2263,800,0.3535,-0.0903
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Above the Break 3,Left Side Center(LC),59,21,0.3559,3059,1095,0.358,-0.0021
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Above the Break 3,Right Side Center(RC),66,23,0.3485,2983,1082,0.3627,-0.0142
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Backcourt,Back Court(BC),4,0,0.0,49,1,0.0204,-0.0204
+203932,Aaron Gordon,Aaron,Gordon,2021-22,In The Paint (Non-RA),Center(C),91,25,0.2747,5208,2296,0.4409,-0.1662
+203932,Aaron Gordon,Aaron,Gordon,2021-22,In The Paint (Non-RA),Left Side(L),3,2,0.6667,379,185,0.4881,0.1786
+203932,Aaron Gordon,Aaron,Gordon,2021-22,In The Paint (Non-RA),Right Side(R),4,2,0.5,384,151,0.3932,0.1068
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Left Corner 3,Left Side(L),67,22,0.3284,979,384,0.3922,-0.0638
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Mid-Range,Center(C),20,8,0.4,1048,479,0.4571,-0.0571
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Mid-Range,Left Side Center(LC),8,2,0.25,621,253,0.4074,-0.1574
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Mid-Range,Left Side(L),35,11,0.3143,1331,531,0.3989,-0.0846
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Mid-Range,Right Side Center(RC),10,5,0.5,662,277,0.4184,0.0816
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Mid-Range,Right Side(R),36,15,0.4167,1244,553,0.4445,-0.0278
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Restricted Area,Center(C),367,277,0.7548,7951,5372,0.6756,0.0792
+203932,Aaron Gordon,Aaron,Gordon,2021-22,Right Corner 3,Right Side(R),45,16,0.3556,937,380,0.4055,-0.0499
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Above the Break 3,Center(C),14,7,0.5,2478,863,0.3483,0.1517
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Above the Break 3,Left Side Center(LC),46,19,0.413,3403,1285,0.3776,0.0354
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Above the Break 3,Right Side Center(RC),53,20,0.3774,3418,1282,0.3751,0.0023
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Backcourt,Back Court(BC),4,0,0.0,67,2,0.0299,-0.0299
+203932,Aaron Gordon,Aaron,Gordon,2022-23,In The Paint (Non-RA),Center(C),87,33,0.3793,6180,2799,0.4529,-0.0736
+203932,Aaron Gordon,Aaron,Gordon,2022-23,In The Paint (Non-RA),Left Side(L),8,3,0.375,420,203,0.4833,-0.1083
+203932,Aaron Gordon,Aaron,Gordon,2022-23,In The Paint (Non-RA),Right Side(R),3,1,0.3333,466,222,0.4764,-0.1431
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Left Corner 3,Left Side(L),30,6,0.2,1041,434,0.4169,-0.2169
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Mid-Range,Center(C),13,3,0.2308,1100,486,0.4418,-0.211
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Mid-Range,Left Side Center(LC),8,4,0.5,723,292,0.4039,0.0961
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Mid-Range,Left Side(L),17,3,0.1765,1305,551,0.4222,-0.2457
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Mid-Range,Right Side Center(RC),3,1,0.3333,814,388,0.4767,-0.1434
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Mid-Range,Right Side(R),16,3,0.1875,1287,585,0.4545,-0.267
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Restricted Area,Center(C),433,318,0.7344,9615,6601,0.6865,0.0479
+203932,Aaron Gordon,Aaron,Gordon,2022-23,Right Corner 3,Right Side(R),26,8,0.3077,991,399,0.4026,-0.0949
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Above the Break 3,Center(C),12,2,0.1667,3110,1144,0.3678,-0.2011
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Above the Break 3,Left Side Center(LC),32,9,0.2812,4149,1558,0.3755,-0.0943
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Above the Break 3,Right Side Center(RC),37,9,0.2432,3883,1445,0.3721,-0.1289
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+203932,Aaron Gordon,Aaron,Gordon,2023-24,In The Paint (Non-RA),Center(C),69,18,0.2609,6614,3028,0.4578,-0.1969
+203932,Aaron Gordon,Aaron,Gordon,2023-24,In The Paint (Non-RA),Left Side(L),4,1,0.25,508,239,0.4705,-0.2205
+203932,Aaron Gordon,Aaron,Gordon,2023-24,In The Paint (Non-RA),Right Side(R),5,0,0.0,507,225,0.4438,-0.4438
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Left Corner 3,Left Side(L),29,7,0.2414,1020,403,0.3951,-0.1537
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Mid-Range,Center(C),4,2,0.5,1403,647,0.4612,0.0388
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Mid-Range,Left Side Center(LC),3,1,0.3333,861,380,0.4413,-0.108
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Mid-Range,Left Side(L),13,2,0.1538,1539,668,0.434,-0.2802
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Mid-Range,Right Side Center(RC),3,1,0.3333,935,389,0.416,-0.0827
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Mid-Range,Right Side(R),14,5,0.3571,1524,649,0.4259,-0.0688
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Restricted Area,Center(C),463,328,0.7084,10307,7128,0.6916,0.0168
+203932,Aaron Gordon,Aaron,Gordon,2023-24,Right Corner 3,Right Side(R),27,13,0.4815,957,403,0.4211,0.0604
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Above the Break 3,Center(C),56,22,0.3929,2263,800,0.3535,0.0394
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Above the Break 3,Left Side Center(LC),145,48,0.331,3059,1095,0.358,-0.027
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Above the Break 3,Right Side Center(RC),84,37,0.4405,2983,1082,0.3627,0.0778
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,In The Paint (Non-RA),Center(C),195,83,0.4256,5208,2296,0.4409,-0.0153
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,In The Paint (Non-RA),Left Side(L),10,5,0.5,379,185,0.4881,0.0119
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,In The Paint (Non-RA),Right Side(R),14,4,0.2857,384,151,0.3932,-0.1075
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Left Corner 3,Left Side(L),87,42,0.4828,979,384,0.3922,0.0906
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Mid-Range,Center(C),36,12,0.3333,1048,479,0.4571,-0.1238
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Mid-Range,Left Side Center(LC),23,7,0.3043,621,253,0.4074,-0.1031
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Mid-Range,Left Side(L),43,16,0.3721,1331,531,0.3989,-0.0268
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Mid-Range,Right Side Center(RC),27,15,0.5556,662,277,0.4184,0.1372
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Mid-Range,Right Side(R),51,17,0.3333,1244,553,0.4445,-0.1112
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Restricted Area,Center(C),222,159,0.7162,7951,5372,0.6756,0.0406
+203952,Andrew Wiggins,Andrew,Wiggins,2021-22,Right Corner 3,Right Side(R),26,8,0.3077,937,380,0.4055,-0.0978
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Above the Break 3,Center(C),26,12,0.4615,2478,863,0.3483,0.1132
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Above the Break 3,Left Side Center(LC),89,36,0.4045,3403,1285,0.3776,0.0269
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Above the Break 3,Right Side Center(RC),62,24,0.3871,3418,1282,0.3751,0.012
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,In The Paint (Non-RA),Center(C),111,50,0.4505,6180,2799,0.4529,-0.0024
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,In The Paint (Non-RA),Left Side(L),4,2,0.5,420,203,0.4833,0.0167
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,In The Paint (Non-RA),Right Side(R),3,0,0.0,466,222,0.4764,-0.4764
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Left Corner 3,Left Side(L),28,10,0.3571,1041,434,0.4169,-0.0598
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Mid-Range,Center(C),17,7,0.4118,1100,486,0.4418,-0.03
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Mid-Range,Left Side Center(LC),14,7,0.5,723,292,0.4039,0.0961
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Mid-Range,Left Side(L),16,7,0.4375,1305,551,0.4222,0.0153
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Mid-Range,Right Side Center(RC),10,4,0.4,814,388,0.4767,-0.0767
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Mid-Range,Right Side(R),28,11,0.3929,1287,585,0.4545,-0.0616
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Restricted Area,Center(C),101,73,0.7228,9615,6601,0.6865,0.0363
+203952,Andrew Wiggins,Andrew,Wiggins,2022-23,Right Corner 3,Right Side(R),20,7,0.35,991,399,0.4026,-0.0526
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Above the Break 3,Center(C),35,11,0.3143,3110,1144,0.3678,-0.0535
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Above the Break 3,Left Side Center(LC),90,29,0.3222,4149,1558,0.3755,-0.0533
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Above the Break 3,Right Side Center(RC),79,34,0.4304,3883,1445,0.3721,0.0583
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,In The Paint (Non-RA),Center(C),182,81,0.4451,6614,3028,0.4578,-0.0127
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,In The Paint (Non-RA),Left Side(L),8,3,0.375,508,239,0.4705,-0.0955
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,In The Paint (Non-RA),Right Side(R),11,4,0.3636,507,225,0.4438,-0.0802
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Left Corner 3,Left Side(L),33,15,0.4545,1020,403,0.3951,0.0594
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Mid-Range,Center(C),27,8,0.2963,1403,647,0.4612,-0.1649
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Mid-Range,Left Side Center(LC),13,6,0.4615,861,380,0.4413,0.0202
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Mid-Range,Left Side(L),26,10,0.3846,1539,668,0.434,-0.0494
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Mid-Range,Right Side Center(RC),19,6,0.3158,935,389,0.416,-0.1002
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Mid-Range,Right Side(R),34,15,0.4412,1524,649,0.4259,0.0153
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Restricted Area,Center(C),206,129,0.6262,10307,7128,0.6916,-0.0654
+203952,Andrew Wiggins,Andrew,Wiggins,2023-24,Right Corner 3,Right Side(R),16,2,0.125,957,403,0.4211,-0.2961
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Above the Break 3,Center(C),169,55,0.3254,2263,800,0.3535,-0.0281
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Above the Break 3,Left Side Center(LC),181,66,0.3646,3059,1095,0.358,0.0066
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Above the Break 3,Right Side Center(RC),189,72,0.381,2983,1082,0.3627,0.0183
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,In The Paint (Non-RA),Center(C),125,39,0.312,5208,2296,0.4409,-0.1289
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,In The Paint (Non-RA),Left Side(L),3,2,0.6667,379,185,0.4881,0.1786
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,In The Paint (Non-RA),Right Side(R),4,1,0.25,384,151,0.3932,-0.1432
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Left Corner 3,Left Side(L),35,12,0.3429,979,384,0.3922,-0.0493
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Mid-Range,Center(C),27,9,0.3333,1048,479,0.4571,-0.1238
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Mid-Range,Left Side Center(LC),26,11,0.4231,621,253,0.4074,0.0157
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Mid-Range,Left Side(L),29,11,0.3793,1331,531,0.3989,-0.0196
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Mid-Range,Right Side Center(RC),7,1,0.1429,662,277,0.4184,-0.2755
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Mid-Range,Right Side(R),16,5,0.3125,1244,553,0.4445,-0.132
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Restricted Area,Center(C),408,256,0.6275,7951,5372,0.6756,-0.0481
+1630162,Anthony Edwards,Anthony,Edwards,2021-22,Right Corner 3,Right Side(R),24,9,0.375,937,380,0.4055,-0.0305
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Above the Break 3,Center(C),156,65,0.4167,2478,863,0.3483,0.0684
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Above the Break 3,Left Side Center(LC),182,61,0.3352,3403,1285,0.3776,-0.0424
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Above the Break 3,Right Side Center(RC),177,61,0.3446,3418,1282,0.3751,-0.0305
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Backcourt,Back Court(BC),3,0,0.0,67,2,0.0299,-0.0299
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,In The Paint (Non-RA),Center(C),198,73,0.3687,6180,2799,0.4529,-0.0842
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,In The Paint (Non-RA),Left Side(L),9,6,0.6667,420,203,0.4833,0.1834
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,In The Paint (Non-RA),Right Side(R),10,1,0.1,466,222,0.4764,-0.3764
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Left Corner 3,Left Side(L),35,16,0.4571,1041,434,0.4169,0.0402
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Mid-Range,Center(C),50,14,0.28,1100,486,0.4418,-0.1618
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Mid-Range,Left Side Center(LC),41,13,0.3171,723,292,0.4039,-0.0868
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Mid-Range,Left Side(L),46,18,0.3913,1305,551,0.4222,-0.0309
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Mid-Range,Right Side Center(RC),55,24,0.4364,814,388,0.4767,-0.0403
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Mid-Range,Right Side(R),39,16,0.4103,1287,585,0.4545,-0.0442
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Restricted Area,Center(C),515,329,0.6388,9615,6601,0.6865,-0.0477
+1630162,Anthony Edwards,Anthony,Edwards,2022-23,Right Corner 3,Right Side(R),25,10,0.4,991,399,0.4026,-0.0026
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Above the Break 3,Center(C),140,49,0.35,3110,1144,0.3678,-0.0178
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Above the Break 3,Left Side Center(LC),157,52,0.3312,4149,1558,0.3755,-0.0443
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Above the Break 3,Right Side Center(RC),178,71,0.3989,3883,1445,0.3721,0.0268
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Backcourt,Back Court(BC),5,0,0.0,56,1,0.0179,-0.0179
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,In The Paint (Non-RA),Center(C),261,114,0.4368,6614,3028,0.4578,-0.021
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,In The Paint (Non-RA),Left Side(L),25,13,0.52,508,239,0.4705,0.0495
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,In The Paint (Non-RA),Right Side(R),18,4,0.2222,507,225,0.4438,-0.2216
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Left Corner 3,Left Side(L),32,12,0.375,1020,403,0.3951,-0.0201
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Mid-Range,Center(C),59,24,0.4068,1403,647,0.4612,-0.0544
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Mid-Range,Left Side Center(LC),44,17,0.3864,861,380,0.4413,-0.0549
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Mid-Range,Left Side(L),80,22,0.275,1539,668,0.434,-0.159
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Mid-Range,Right Side Center(RC),50,16,0.32,935,389,0.416,-0.096
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Mid-Range,Right Side(R),66,26,0.3939,1524,649,0.4259,-0.032
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Restricted Area,Center(C),423,292,0.6903,10307,7128,0.6916,-0.0013
+1630162,Anthony Edwards,Anthony,Edwards,2023-24,Right Corner 3,Right Side(R),20,6,0.3,957,403,0.4211,-0.1211
+1626171,Bobby Portis,Bobby,Portis,2021-22,Above the Break 3,Center(C),94,40,0.4255,2263,800,0.3535,0.072
+1626171,Bobby Portis,Bobby,Portis,2021-22,Above the Break 3,Left Side Center(LC),49,22,0.449,3059,1095,0.358,0.091
+1626171,Bobby Portis,Bobby,Portis,2021-22,Above the Break 3,Right Side Center(RC),59,18,0.3051,2983,1082,0.3627,-0.0576
+1626171,Bobby Portis,Bobby,Portis,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1626171,Bobby Portis,Bobby,Portis,2021-22,In The Paint (Non-RA),Center(C),151,76,0.5033,5208,2296,0.4409,0.0624
+1626171,Bobby Portis,Bobby,Portis,2021-22,In The Paint (Non-RA),Left Side(L),8,4,0.5,379,185,0.4881,0.0119
+1626171,Bobby Portis,Bobby,Portis,2021-22,In The Paint (Non-RA),Right Side(R),14,5,0.3571,384,151,0.3932,-0.0361
+1626171,Bobby Portis,Bobby,Portis,2021-22,Left Corner 3,Left Side(L),54,24,0.4444,979,384,0.3922,0.0522
+1626171,Bobby Portis,Bobby,Portis,2021-22,Mid-Range,Center(C),23,10,0.4348,1048,479,0.4571,-0.0223
+1626171,Bobby Portis,Bobby,Portis,2021-22,Mid-Range,Left Side Center(LC),12,5,0.4167,621,253,0.4074,0.0093
+1626171,Bobby Portis,Bobby,Portis,2021-22,Mid-Range,Left Side(L),58,25,0.431,1331,531,0.3989,0.0321
+1626171,Bobby Portis,Bobby,Portis,2021-22,Mid-Range,Right Side Center(RC),10,4,0.4,662,277,0.4184,-0.0184
+1626171,Bobby Portis,Bobby,Portis,2021-22,Mid-Range,Right Side(R),43,21,0.4884,1244,553,0.4445,0.0439
+1626171,Bobby Portis,Bobby,Portis,2021-22,Restricted Area,Center(C),216,134,0.6204,7951,5372,0.6756,-0.0552
+1626171,Bobby Portis,Bobby,Portis,2021-22,Right Corner 3,Right Side(R),78,29,0.3718,937,380,0.4055,-0.0337
+1626171,Bobby Portis,Bobby,Portis,2022-23,Above the Break 3,Center(C),57,24,0.4211,2478,863,0.3483,0.0728
+1626171,Bobby Portis,Bobby,Portis,2022-23,Above the Break 3,Left Side Center(LC),42,16,0.381,3403,1285,0.3776,0.0034
+1626171,Bobby Portis,Bobby,Portis,2022-23,Above the Break 3,Right Side Center(RC),64,30,0.4688,3418,1282,0.3751,0.0937
+1626171,Bobby Portis,Bobby,Portis,2022-23,Backcourt,Back Court(BC),1,0,0.0,67,2,0.0299,-0.0299
+1626171,Bobby Portis,Bobby,Portis,2022-23,In The Paint (Non-RA),Center(C),149,84,0.5638,6180,2799,0.4529,0.1109
+1626171,Bobby Portis,Bobby,Portis,2022-23,In The Paint (Non-RA),Left Side(L),19,6,0.3158,420,203,0.4833,-0.1675
+1626171,Bobby Portis,Bobby,Portis,2022-23,In The Paint (Non-RA),Right Side(R),10,5,0.5,466,222,0.4764,0.0236
+1626171,Bobby Portis,Bobby,Portis,2022-23,Left Corner 3,Left Side(L),42,14,0.3333,1041,434,0.4169,-0.0836
+1626171,Bobby Portis,Bobby,Portis,2022-23,Mid-Range,Center(C),13,5,0.3846,1100,486,0.4418,-0.0572
+1626171,Bobby Portis,Bobby,Portis,2022-23,Mid-Range,Left Side Center(LC),11,6,0.5455,723,292,0.4039,0.1416
+1626171,Bobby Portis,Bobby,Portis,2022-23,Mid-Range,Left Side(L),73,32,0.4384,1305,551,0.4222,0.0162
+1626171,Bobby Portis,Bobby,Portis,2022-23,Mid-Range,Right Side Center(RC),10,3,0.3,814,388,0.4767,-0.1767
+1626171,Bobby Portis,Bobby,Portis,2022-23,Mid-Range,Right Side(R),52,27,0.5192,1287,585,0.4545,0.0647
+1626171,Bobby Portis,Bobby,Portis,2022-23,Restricted Area,Center(C),210,135,0.6429,9615,6601,0.6865,-0.0436
+1626171,Bobby Portis,Bobby,Portis,2022-23,Right Corner 3,Right Side(R),50,11,0.22,991,399,0.4026,-0.1826
+1626171,Bobby Portis,Bobby,Portis,2023-24,Above the Break 3,Center(C),40,15,0.375,3110,1144,0.3678,0.0072
+1626171,Bobby Portis,Bobby,Portis,2023-24,Above the Break 3,Left Side Center(LC),50,23,0.46,4149,1558,0.3755,0.0845
+1626171,Bobby Portis,Bobby,Portis,2023-24,Above the Break 3,Right Side Center(RC),48,19,0.3958,3883,1445,0.3721,0.0237
+1626171,Bobby Portis,Bobby,Portis,2023-24,In The Paint (Non-RA),Center(C),179,90,0.5028,6614,3028,0.4578,0.045
+1626171,Bobby Portis,Bobby,Portis,2023-24,In The Paint (Non-RA),Left Side(L),17,6,0.3529,508,239,0.4705,-0.1176
+1626171,Bobby Portis,Bobby,Portis,2023-24,In The Paint (Non-RA),Right Side(R),14,10,0.7143,507,225,0.4438,0.2705
+1626171,Bobby Portis,Bobby,Portis,2023-24,Left Corner 3,Left Side(L),58,22,0.3793,1020,403,0.3951,-0.0158
+1626171,Bobby Portis,Bobby,Portis,2023-24,Mid-Range,Center(C),23,12,0.5217,1403,647,0.4612,0.0605
+1626171,Bobby Portis,Bobby,Portis,2023-24,Mid-Range,Left Side Center(LC),24,9,0.375,861,380,0.4413,-0.0663
+1626171,Bobby Portis,Bobby,Portis,2023-24,Mid-Range,Left Side(L),127,57,0.4488,1539,668,0.434,0.0148
+1626171,Bobby Portis,Bobby,Portis,2023-24,Mid-Range,Right Side Center(RC),11,6,0.5455,935,389,0.416,0.1295
+1626171,Bobby Portis,Bobby,Portis,2023-24,Mid-Range,Right Side(R),49,22,0.449,1524,649,0.4259,0.0231
+1626171,Bobby Portis,Bobby,Portis,2023-24,Restricted Area,Center(C),228,154,0.6754,10307,7128,0.6916,-0.0162
+1626171,Bobby Portis,Bobby,Portis,2023-24,Right Corner 3,Right Side(R),50,21,0.42,957,403,0.4211,-0.0011
+201572,Brook Lopez,Brook,Lopez,2021-22,Above the Break 3,Center(C),7,1,0.1429,2263,800,0.3535,-0.2106
+201572,Brook Lopez,Brook,Lopez,2021-22,Above the Break 3,Left Side Center(LC),9,3,0.3333,3059,1095,0.358,-0.0247
+201572,Brook Lopez,Brook,Lopez,2021-22,Above the Break 3,Right Side Center(RC),19,6,0.3158,2983,1082,0.3627,-0.0469
+201572,Brook Lopez,Brook,Lopez,2021-22,In The Paint (Non-RA),Center(C),23,6,0.2609,5208,2296,0.4409,-0.18
+201572,Brook Lopez,Brook,Lopez,2021-22,In The Paint (Non-RA),Right Side(R),3,2,0.6667,384,151,0.3932,0.2735
+201572,Brook Lopez,Brook,Lopez,2021-22,Left Corner 3,Left Side(L),2,1,0.5,979,384,0.3922,0.1078
+201572,Brook Lopez,Brook,Lopez,2021-22,Mid-Range,Center(C),1,0,0.0,1048,479,0.4571,-0.4571
+201572,Brook Lopez,Brook,Lopez,2021-22,Mid-Range,Left Side(L),3,0,0.0,1331,531,0.3989,-0.3989
+201572,Brook Lopez,Brook,Lopez,2021-22,Mid-Range,Right Side Center(RC),1,0,0.0,662,277,0.4184,-0.4184
+201572,Brook Lopez,Brook,Lopez,2021-22,Mid-Range,Right Side(R),3,0,0.0,1244,553,0.4445,-0.4445
+201572,Brook Lopez,Brook,Lopez,2021-22,Restricted Area,Center(C),44,34,0.7727,7951,5372,0.6756,0.0971
+201572,Brook Lopez,Brook,Lopez,2021-22,Right Corner 3,Right Side(R),16,8,0.5,937,380,0.4055,0.0945
+201572,Brook Lopez,Brook,Lopez,2022-23,Above the Break 3,Center(C),89,39,0.4382,2478,863,0.3483,0.0899
+201572,Brook Lopez,Brook,Lopez,2022-23,Above the Break 3,Left Side Center(LC),92,29,0.3152,3403,1285,0.3776,-0.0624
+201572,Brook Lopez,Brook,Lopez,2022-23,Above the Break 3,Right Side Center(RC),108,37,0.3426,3418,1282,0.3751,-0.0325
+201572,Brook Lopez,Brook,Lopez,2022-23,In The Paint (Non-RA),Center(C),159,87,0.5472,6180,2799,0.4529,0.0943
+201572,Brook Lopez,Brook,Lopez,2022-23,In The Paint (Non-RA),Left Side(L),6,2,0.3333,420,203,0.4833,-0.15
+201572,Brook Lopez,Brook,Lopez,2022-23,In The Paint (Non-RA),Right Side(R),7,3,0.4286,466,222,0.4764,-0.0478
+201572,Brook Lopez,Brook,Lopez,2022-23,Left Corner 3,Left Side(L),27,11,0.4074,1041,434,0.4169,-0.0095
+201572,Brook Lopez,Brook,Lopez,2022-23,Mid-Range,Center(C),17,6,0.3529,1100,486,0.4418,-0.0889
+201572,Brook Lopez,Brook,Lopez,2022-23,Mid-Range,Left Side Center(LC),5,2,0.4,723,292,0.4039,-0.0039
+201572,Brook Lopez,Brook,Lopez,2022-23,Mid-Range,Left Side(L),27,14,0.5185,1305,551,0.4222,0.0963
+201572,Brook Lopez,Brook,Lopez,2022-23,Mid-Range,Right Side Center(RC),4,3,0.75,814,388,0.4767,0.2733
+201572,Brook Lopez,Brook,Lopez,2022-23,Mid-Range,Right Side(R),33,16,0.4848,1287,585,0.4545,0.0303
+201572,Brook Lopez,Brook,Lopez,2022-23,Restricted Area,Center(C),278,208,0.7482,9615,6601,0.6865,0.0617
+201572,Brook Lopez,Brook,Lopez,2022-23,Right Corner 3,Right Side(R),47,20,0.4255,991,399,0.4026,0.0229
+201572,Brook Lopez,Brook,Lopez,2023-24,Above the Break 3,Center(C),112,39,0.3482,3110,1144,0.3678,-0.0196
+201572,Brook Lopez,Brook,Lopez,2023-24,Above the Break 3,Left Side Center(LC),107,41,0.3832,4149,1558,0.3755,0.0077
+201572,Brook Lopez,Brook,Lopez,2023-24,Above the Break 3,Right Side Center(RC),126,44,0.3492,3883,1445,0.3721,-0.0229
+201572,Brook Lopez,Brook,Lopez,2023-24,In The Paint (Non-RA),Center(C),82,35,0.4268,6614,3028,0.4578,-0.031
+201572,Brook Lopez,Brook,Lopez,2023-24,In The Paint (Non-RA),Left Side(L),6,3,0.5,508,239,0.4705,0.0295
+201572,Brook Lopez,Brook,Lopez,2023-24,In The Paint (Non-RA),Right Side(R),8,4,0.5,507,225,0.4438,0.0562
+201572,Brook Lopez,Brook,Lopez,2023-24,Left Corner 3,Left Side(L),23,7,0.3043,1020,403,0.3951,-0.0908
+201572,Brook Lopez,Brook,Lopez,2023-24,Mid-Range,Center(C),9,6,0.6667,1403,647,0.4612,0.2055
+201572,Brook Lopez,Brook,Lopez,2023-24,Mid-Range,Left Side Center(LC),3,1,0.3333,861,380,0.4413,-0.108
+201572,Brook Lopez,Brook,Lopez,2023-24,Mid-Range,Left Side(L),9,2,0.2222,1539,668,0.434,-0.2118
+201572,Brook Lopez,Brook,Lopez,2023-24,Mid-Range,Right Side(R),13,3,0.2308,1524,649,0.4259,-0.1951
+201572,Brook Lopez,Brook,Lopez,2023-24,Restricted Area,Center(C),221,164,0.7421,10307,7128,0.6916,0.0505
+201572,Brook Lopez,Brook,Lopez,2023-24,Right Corner 3,Right Side(R),36,17,0.4722,957,403,0.4211,0.0511
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Above the Break 3,Center(C),109,34,0.3119,2263,800,0.3535,-0.0416
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Above the Break 3,Left Side Center(LC),101,32,0.3168,3059,1095,0.358,-0.0412
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Above the Break 3,Right Side Center(RC),93,29,0.3118,2983,1082,0.3627,-0.0509
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,In The Paint (Non-RA),Center(C),210,76,0.3619,5208,2296,0.4409,-0.079
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,In The Paint (Non-RA),Left Side(L),12,6,0.5,379,185,0.4881,0.0119
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,In The Paint (Non-RA),Right Side(R),7,1,0.1429,384,151,0.3932,-0.2503
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Left Corner 3,Left Side(L),33,10,0.303,979,384,0.3922,-0.0892
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Mid-Range,Center(C),42,22,0.5238,1048,479,0.4571,0.0667
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Mid-Range,Left Side Center(LC),18,7,0.3889,621,253,0.4074,-0.0185
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Mid-Range,Left Side(L),27,8,0.2963,1331,531,0.3989,-0.1026
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Mid-Range,Right Side Center(RC),21,3,0.1429,662,277,0.4184,-0.2755
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Mid-Range,Right Side(R),30,17,0.5667,1244,553,0.4445,0.1222
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Restricted Area,Center(C),301,175,0.5814,7951,5372,0.6756,-0.0942
+1630595,Cade Cunningham,Cade,Cunningham,2021-22,Right Corner 3,Right Side(R),25,9,0.36,937,380,0.4055,-0.0455
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Above the Break 3,Center(C),22,8,0.3636,2478,863,0.3483,0.0153
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Above the Break 3,Left Side Center(LC),15,4,0.2667,3403,1285,0.3776,-0.1109
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Above the Break 3,Right Side Center(RC),19,4,0.2105,3418,1282,0.3751,-0.1646
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Backcourt,Back Court(BC),1,0,0.0,67,2,0.0299,-0.0299
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,In The Paint (Non-RA),Center(C),44,15,0.3409,6180,2799,0.4529,-0.112
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,In The Paint (Non-RA),Left Side(L),5,2,0.4,420,203,0.4833,-0.0833
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,In The Paint (Non-RA),Right Side(R),7,4,0.5714,466,222,0.4764,0.095
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Left Corner 3,Left Side(L),1,0,0.0,1041,434,0.4169,-0.4169
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Mid-Range,Center(C),14,8,0.5714,1100,486,0.4418,0.1296
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Mid-Range,Left Side Center(LC),9,5,0.5556,723,292,0.4039,0.1517
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Mid-Range,Left Side(L),7,3,0.4286,1305,551,0.4222,0.0064
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Mid-Range,Right Side Center(RC),13,5,0.3846,814,388,0.4767,-0.0921
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Mid-Range,Right Side(R),13,6,0.4615,1287,585,0.4545,0.007
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Restricted Area,Center(C),51,28,0.549,9615,6601,0.6865,-0.1375
+1630595,Cade Cunningham,Cade,Cunningham,2022-23,Right Corner 3,Right Side(R),3,1,0.3333,991,399,0.4026,-0.0693
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Above the Break 3,Center(C),88,31,0.3523,3110,1144,0.3678,-0.0155
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Above the Break 3,Left Side Center(LC),111,38,0.3423,4149,1558,0.3755,-0.0332
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Above the Break 3,Right Side Center(RC),87,34,0.3908,3883,1445,0.3721,0.0187
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Backcourt,Back Court(BC),5,0,0.0,56,1,0.0179,-0.0179
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,In The Paint (Non-RA),Center(C),249,104,0.4177,6614,3028,0.4578,-0.0401
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,In The Paint (Non-RA),Left Side(L),17,8,0.4706,508,239,0.4705,0.0001
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,In The Paint (Non-RA),Right Side(R),11,4,0.3636,507,225,0.4438,-0.0802
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Left Corner 3,Left Side(L),20,5,0.25,1020,403,0.3951,-0.1451
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Mid-Range,Center(C),77,39,0.5065,1403,647,0.4612,0.0453
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Mid-Range,Left Side Center(LC),46,19,0.413,861,380,0.4413,-0.0283
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Mid-Range,Left Side(L),36,17,0.4722,1539,668,0.434,0.0382
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Mid-Range,Right Side Center(RC),40,17,0.425,935,389,0.416,0.009
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Mid-Range,Right Side(R),53,29,0.5472,1524,649,0.4259,0.1213
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Restricted Area,Center(C),302,168,0.5563,10307,7128,0.6916,-0.1353
+1630595,Cade Cunningham,Cade,Cunningham,2023-24,Right Corner 3,Right Side(R),25,11,0.44,957,403,0.4211,0.0189
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Above the Break 3,Center(C),85,27,0.3176,3110,1144,0.3678,-0.0502
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Above the Break 3,Left Side Center(LC),135,54,0.4,4149,1558,0.3755,0.0245
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Above the Break 3,Right Side Center(RC),88,36,0.4091,3883,1445,0.3721,0.037
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,In The Paint (Non-RA),Center(C),171,87,0.5088,6614,3028,0.4578,0.051
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,In The Paint (Non-RA),Left Side(L),9,2,0.2222,508,239,0.4705,-0.2483
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,In The Paint (Non-RA),Right Side(R),12,9,0.75,507,225,0.4438,0.3062
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Left Corner 3,Left Side(L),30,10,0.3333,1020,403,0.3951,-0.0618
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Mid-Range,Center(C),17,5,0.2941,1403,647,0.4612,-0.1671
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Mid-Range,Left Side Center(LC),6,3,0.5,861,380,0.4413,0.0587
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Mid-Range,Left Side(L),16,8,0.5,1539,668,0.434,0.066
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Mid-Range,Right Side Center(RC),12,5,0.4167,935,389,0.416,0.0007
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Mid-Range,Right Side(R),22,10,0.4545,1524,649,0.4259,0.0286
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Restricted Area,Center(C),339,247,0.7286,10307,7128,0.6916,0.037
+1631096,Chet Holmgren,Chet,Holmgren,2023-24,Right Corner 3,Right Side(R),9,2,0.2222,957,403,0.4211,-0.1989
+203081,Damian Lillard,Damian,Lillard,2021-22,Above the Break 3,Center(C),70,27,0.3857,2263,800,0.3535,0.0322
+203081,Damian Lillard,Damian,Lillard,2021-22,Above the Break 3,Left Side Center(LC),101,35,0.3465,3059,1095,0.358,-0.0115
+203081,Damian Lillard,Damian,Lillard,2021-22,Above the Break 3,Right Side Center(RC),96,24,0.25,2983,1082,0.3627,-0.1127
+203081,Damian Lillard,Damian,Lillard,2021-22,In The Paint (Non-RA),Center(C),31,11,0.3548,5208,2296,0.4409,-0.0861
+203081,Damian Lillard,Damian,Lillard,2021-22,In The Paint (Non-RA),Left Side(L),2,2,1.0,379,185,0.4881,0.5119
+203081,Damian Lillard,Damian,Lillard,2021-22,In The Paint (Non-RA),Right Side(R),1,1,1.0,384,151,0.3932,0.6068
+203081,Damian Lillard,Damian,Lillard,2021-22,Left Corner 3,Left Side(L),10,2,0.2,979,384,0.3922,-0.1922
+203081,Damian Lillard,Damian,Lillard,2021-22,Mid-Range,Center(C),7,1,0.1429,1048,479,0.4571,-0.3142
+203081,Damian Lillard,Damian,Lillard,2021-22,Mid-Range,Left Side Center(LC),20,11,0.55,621,253,0.4074,0.1426
+203081,Damian Lillard,Damian,Lillard,2021-22,Mid-Range,Left Side(L),28,6,0.2143,1331,531,0.3989,-0.1846
+203081,Damian Lillard,Damian,Lillard,2021-22,Mid-Range,Right Side Center(RC),12,7,0.5833,662,277,0.4184,0.1649
+203081,Damian Lillard,Damian,Lillard,2021-22,Mid-Range,Right Side(R),23,13,0.5652,1244,553,0.4445,0.1207
+203081,Damian Lillard,Damian,Lillard,2021-22,Restricted Area,Center(C),144,78,0.5417,7951,5372,0.6756,-0.1339
+203081,Damian Lillard,Damian,Lillard,2021-22,Right Corner 3,Right Side(R),7,4,0.5714,937,380,0.4055,0.1659
+203081,Damian Lillard,Damian,Lillard,2022-23,Above the Break 3,Center(C),147,45,0.3061,2478,863,0.3483,-0.0422
+203081,Damian Lillard,Damian,Lillard,2022-23,Above the Break 3,Left Side Center(LC),250,96,0.384,3403,1285,0.3776,0.0064
+203081,Damian Lillard,Damian,Lillard,2022-23,Above the Break 3,Right Side Center(RC),218,87,0.3991,3418,1282,0.3751,0.024
+203081,Damian Lillard,Damian,Lillard,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+203081,Damian Lillard,Damian,Lillard,2022-23,In The Paint (Non-RA),Center(C),95,46,0.4842,6180,2799,0.4529,0.0313
+203081,Damian Lillard,Damian,Lillard,2022-23,In The Paint (Non-RA),Left Side(L),7,4,0.5714,420,203,0.4833,0.0881
+203081,Damian Lillard,Damian,Lillard,2022-23,In The Paint (Non-RA),Right Side(R),7,1,0.1429,466,222,0.4764,-0.3335
+203081,Damian Lillard,Damian,Lillard,2022-23,Left Corner 3,Left Side(L),22,6,0.2727,1041,434,0.4169,-0.1442
+203081,Damian Lillard,Damian,Lillard,2022-23,Mid-Range,Center(C),8,6,0.75,1100,486,0.4418,0.3082
+203081,Damian Lillard,Damian,Lillard,2022-23,Mid-Range,Left Side Center(LC),25,11,0.44,723,292,0.4039,0.0361
+203081,Damian Lillard,Damian,Lillard,2022-23,Mid-Range,Left Side(L),37,19,0.5135,1305,551,0.4222,0.0913
+203081,Damian Lillard,Damian,Lillard,2022-23,Mid-Range,Right Side Center(RC),11,6,0.5455,814,388,0.4767,0.0688
+203081,Damian Lillard,Damian,Lillard,2022-23,Mid-Range,Right Side(R),30,14,0.4667,1287,585,0.4545,0.0122
+203081,Damian Lillard,Damian,Lillard,2022-23,Restricted Area,Center(C),324,205,0.6327,9615,6601,0.6865,-0.0538
+203081,Damian Lillard,Damian,Lillard,2022-23,Right Corner 3,Right Side(R),19,10,0.5263,991,399,0.4026,0.1237
+203081,Damian Lillard,Damian,Lillard,2023-24,Above the Break 3,Center(C),155,51,0.329,3110,1144,0.3678,-0.0388
+203081,Damian Lillard,Damian,Lillard,2023-24,Above the Break 3,Left Side Center(LC),254,92,0.3622,4149,1558,0.3755,-0.0133
+203081,Damian Lillard,Damian,Lillard,2023-24,Above the Break 3,Right Side Center(RC),169,66,0.3905,3883,1445,0.3721,0.0184
+203081,Damian Lillard,Damian,Lillard,2023-24,Backcourt,Back Court(BC),7,0,0.0,56,1,0.0179,-0.0179
+203081,Damian Lillard,Damian,Lillard,2023-24,In The Paint (Non-RA),Center(C),141,51,0.3617,6614,3028,0.4578,-0.0961
+203081,Damian Lillard,Damian,Lillard,2023-24,In The Paint (Non-RA),Left Side(L),14,5,0.3571,508,239,0.4705,-0.1134
+203081,Damian Lillard,Damian,Lillard,2023-24,In The Paint (Non-RA),Right Side(R),6,3,0.5,507,225,0.4438,0.0562
+203081,Damian Lillard,Damian,Lillard,2023-24,Left Corner 3,Left Side(L),21,5,0.2381,1020,403,0.3951,-0.157
+203081,Damian Lillard,Damian,Lillard,2023-24,Mid-Range,Center(C),41,18,0.439,1403,647,0.4612,-0.0222
+203081,Damian Lillard,Damian,Lillard,2023-24,Mid-Range,Left Side Center(LC),40,20,0.5,861,380,0.4413,0.0587
+203081,Damian Lillard,Damian,Lillard,2023-24,Mid-Range,Left Side(L),45,19,0.4222,1539,668,0.434,-0.0118
+203081,Damian Lillard,Damian,Lillard,2023-24,Mid-Range,Right Side Center(RC),27,10,0.3704,935,389,0.416,-0.0456
+203081,Damian Lillard,Damian,Lillard,2023-24,Mid-Range,Right Side(R),26,6,0.2308,1524,649,0.4259,-0.1951
+203081,Damian Lillard,Damian,Lillard,2023-24,Restricted Area,Center(C),315,189,0.6,10307,7128,0.6916,-0.0916
+203081,Damian Lillard,Damian,Lillard,2023-24,Right Corner 3,Right Side(R),16,6,0.375,957,403,0.4211,-0.0461
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Above the Break 3,Center(C),17,6,0.3529,2263,800,0.3535,-0.0006
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Above the Break 3,Left Side Center(LC),1,0,0.0,3059,1095,0.358,-0.358
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Above the Break 3,Right Side Center(RC),1,1,1.0,2983,1082,0.3627,0.6373
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,In The Paint (Non-RA),Center(C),260,159,0.6115,5208,2296,0.4409,0.1706
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,In The Paint (Non-RA),Left Side(L),11,7,0.6364,379,185,0.4881,0.1483
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,In The Paint (Non-RA),Right Side(R),16,6,0.375,384,151,0.3932,-0.0182
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Mid-Range,Center(C),30,18,0.6,1048,479,0.4571,0.1429
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Mid-Range,Left Side Center(LC),8,3,0.375,621,253,0.4074,-0.0324
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Mid-Range,Left Side(L),40,15,0.375,1331,531,0.3989,-0.0239
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Mid-Range,Right Side Center(RC),6,2,0.3333,662,277,0.4184,-0.0851
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Mid-Range,Right Side(R),31,14,0.4516,1244,553,0.4445,0.0071
+1629028,Deandre Ayton,Deandre,Ayton,2021-22,Restricted Area,Center(C),276,211,0.7645,7951,5372,0.6756,0.0889
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Above the Break 3,Center(C),18,6,0.3333,2478,863,0.3483,-0.015
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Above the Break 3,Left Side Center(LC),4,0,0.0,3403,1285,0.3776,-0.3776
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Above the Break 3,Right Side Center(RC),2,1,0.5,3418,1282,0.3751,0.1249
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,In The Paint (Non-RA),Center(C),315,166,0.527,6180,2799,0.4529,0.0741
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,In The Paint (Non-RA),Left Side(L),23,10,0.4348,420,203,0.4833,-0.0485
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,In The Paint (Non-RA),Right Side(R),23,10,0.4348,466,222,0.4764,-0.0416
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Mid-Range,Center(C),74,33,0.4459,1100,486,0.4418,0.0041
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Mid-Range,Left Side Center(LC),15,5,0.3333,723,292,0.4039,-0.0706
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Mid-Range,Left Side(L),49,19,0.3878,1305,551,0.4222,-0.0344
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Mid-Range,Right Side Center(RC),12,7,0.5833,814,388,0.4767,0.1066
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Mid-Range,Right Side(R),26,10,0.3846,1287,585,0.4545,-0.0699
+1629028,Deandre Ayton,Deandre,Ayton,2022-23,Restricted Area,Center(C),326,255,0.7822,9615,6601,0.6865,0.0957
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Above the Break 3,Center(C),2,0,0.0,3110,1144,0.3678,-0.3678
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Above the Break 3,Right Side Center(RC),3,0,0.0,3883,1445,0.3721,-0.3721
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,In The Paint (Non-RA),Center(C),248,114,0.4597,6614,3028,0.4578,0.0019
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,In The Paint (Non-RA),Left Side(L),12,8,0.6667,508,239,0.4705,0.1962
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,In The Paint (Non-RA),Right Side(R),18,9,0.5,507,225,0.4438,0.0562
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Left Corner 3,Left Side(L),1,0,0.0,1020,403,0.3951,-0.3951
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Mid-Range,Center(C),117,59,0.5043,1403,647,0.4612,0.0431
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Mid-Range,Left Side Center(LC),21,11,0.5238,861,380,0.4413,0.0825
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Mid-Range,Left Side(L),28,13,0.4643,1539,668,0.434,0.0303
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Mid-Range,Right Side Center(RC),20,14,0.7,935,389,0.416,0.284
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Mid-Range,Right Side(R),27,12,0.4444,1524,649,0.4259,0.0185
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Restricted Area,Center(C),248,186,0.75,10307,7128,0.6916,0.0584
+1629028,Deandre Ayton,Deandre,Ayton,2023-24,Right Corner 3,Right Side(R),3,1,0.3333,957,403,0.4211,-0.0878
+1628401,Derrick White,Derrick,White,2021-22,Above the Break 3,Center(C),61,17,0.2787,2263,800,0.3535,-0.0748
+1628401,Derrick White,Derrick,White,2021-22,Above the Break 3,Left Side Center(LC),94,30,0.3191,3059,1095,0.358,-0.0389
+1628401,Derrick White,Derrick,White,2021-22,Above the Break 3,Right Side Center(RC),136,46,0.3382,2983,1082,0.3627,-0.0245
+1628401,Derrick White,Derrick,White,2021-22,Backcourt,Back Court(BC),1,0,0.0,49,1,0.0204,-0.0204
+1628401,Derrick White,Derrick,White,2021-22,In The Paint (Non-RA),Center(C),172,91,0.5291,5208,2296,0.4409,0.0882
+1628401,Derrick White,Derrick,White,2021-22,In The Paint (Non-RA),Left Side(L),4,0,0.0,379,185,0.4881,-0.4881
+1628401,Derrick White,Derrick,White,2021-22,In The Paint (Non-RA),Right Side(R),16,5,0.3125,384,151,0.3932,-0.0807
+1628401,Derrick White,Derrick,White,2021-22,Left Corner 3,Left Side(L),25,7,0.28,979,384,0.3922,-0.1122
+1628401,Derrick White,Derrick,White,2021-22,Mid-Range,Center(C),18,10,0.5556,1048,479,0.4571,0.0985
+1628401,Derrick White,Derrick,White,2021-22,Mid-Range,Left Side Center(LC),8,2,0.25,621,253,0.4074,-0.1574
+1628401,Derrick White,Derrick,White,2021-22,Mid-Range,Left Side(L),15,4,0.2667,1331,531,0.3989,-0.1322
+1628401,Derrick White,Derrick,White,2021-22,Mid-Range,Right Side Center(RC),7,0,0.0,662,277,0.4184,-0.4184
+1628401,Derrick White,Derrick,White,2021-22,Mid-Range,Right Side(R),22,10,0.4545,1244,553,0.4445,0.01
+1628401,Derrick White,Derrick,White,2021-22,Restricted Area,Center(C),171,100,0.5848,7951,5372,0.6756,-0.0908
+1628401,Derrick White,Derrick,White,2021-22,Right Corner 3,Right Side(R),50,15,0.3,937,380,0.4055,-0.1055
+1628401,Derrick White,Derrick,White,2022-23,Above the Break 3,Center(C),53,19,0.3585,2478,863,0.3483,0.0102
+1628401,Derrick White,Derrick,White,2022-23,Above the Break 3,Left Side Center(LC),93,41,0.4409,3403,1285,0.3776,0.0633
+1628401,Derrick White,Derrick,White,2022-23,Above the Break 3,Right Side Center(RC),130,44,0.3385,3418,1282,0.3751,-0.0366
+1628401,Derrick White,Derrick,White,2022-23,In The Paint (Non-RA),Center(C),128,62,0.4844,6180,2799,0.4529,0.0315
+1628401,Derrick White,Derrick,White,2022-23,In The Paint (Non-RA),Left Side(L),9,3,0.3333,420,203,0.4833,-0.15
+1628401,Derrick White,Derrick,White,2022-23,In The Paint (Non-RA),Right Side(R),27,14,0.5185,466,222,0.4764,0.0421
+1628401,Derrick White,Derrick,White,2022-23,Left Corner 3,Left Side(L),53,21,0.3962,1041,434,0.4169,-0.0207
+1628401,Derrick White,Derrick,White,2022-23,Mid-Range,Center(C),8,3,0.375,1100,486,0.4418,-0.0668
+1628401,Derrick White,Derrick,White,2022-23,Mid-Range,Left Side Center(LC),3,1,0.3333,723,292,0.4039,-0.0706
+1628401,Derrick White,Derrick,White,2022-23,Mid-Range,Left Side(L),12,5,0.4167,1305,551,0.4222,-0.0055
+1628401,Derrick White,Derrick,White,2022-23,Mid-Range,Right Side Center(RC),7,2,0.2857,814,388,0.4767,-0.191
+1628401,Derrick White,Derrick,White,2022-23,Mid-Range,Right Side(R),10,4,0.4,1287,585,0.4545,-0.0545
+1628401,Derrick White,Derrick,White,2022-23,Restricted Area,Center(C),163,107,0.6564,9615,6601,0.6865,-0.0301
+1628401,Derrick White,Derrick,White,2022-23,Right Corner 3,Right Side(R),62,24,0.3871,991,399,0.4026,-0.0155
+1628401,Derrick White,Derrick,White,2023-24,Above the Break 3,Center(C),82,32,0.3902,3110,1144,0.3678,0.0224
+1628401,Derrick White,Derrick,White,2023-24,Above the Break 3,Left Side Center(LC),161,63,0.3913,4149,1558,0.3755,0.0158
+1628401,Derrick White,Derrick,White,2023-24,Above the Break 3,Right Side Center(RC),141,57,0.4043,3883,1445,0.3721,0.0322
+1628401,Derrick White,Derrick,White,2023-24,In The Paint (Non-RA),Center(C),134,58,0.4328,6614,3028,0.4578,-0.025
+1628401,Derrick White,Derrick,White,2023-24,In The Paint (Non-RA),Left Side(L),12,6,0.5,508,239,0.4705,0.0295
+1628401,Derrick White,Derrick,White,2023-24,In The Paint (Non-RA),Right Side(R),16,8,0.5,507,225,0.4438,0.0562
+1628401,Derrick White,Derrick,White,2023-24,Left Corner 3,Left Side(L),45,17,0.3778,1020,403,0.3951,-0.0173
+1628401,Derrick White,Derrick,White,2023-24,Mid-Range,Center(C),12,4,0.3333,1403,647,0.4612,-0.1279
+1628401,Derrick White,Derrick,White,2023-24,Mid-Range,Left Side Center(LC),4,3,0.75,861,380,0.4413,0.3087
+1628401,Derrick White,Derrick,White,2023-24,Mid-Range,Left Side(L),8,3,0.375,1539,668,0.434,-0.059
+1628401,Derrick White,Derrick,White,2023-24,Mid-Range,Right Side Center(RC),11,7,0.6364,935,389,0.416,0.2204
+1628401,Derrick White,Derrick,White,2023-24,Mid-Range,Right Side(R),10,1,0.1,1524,649,0.4259,-0.3259
+1628401,Derrick White,Derrick,White,2023-24,Restricted Area,Center(C),137,101,0.7372,10307,7128,0.6916,0.0456
+1628401,Derrick White,Derrick,White,2023-24,Right Corner 3,Right Side(R),66,27,0.4091,957,403,0.4211,-0.012
+1630217,Desmond Bane,Desmond,Bane,2021-22,Above the Break 3,Center(C),111,55,0.4955,2263,800,0.3535,0.142
+1630217,Desmond Bane,Desmond,Bane,2021-22,Above the Break 3,Left Side Center(LC),169,68,0.4024,3059,1095,0.358,0.0444
+1630217,Desmond Bane,Desmond,Bane,2021-22,Above the Break 3,Right Side Center(RC),139,65,0.4676,2983,1082,0.3627,0.1049
+1630217,Desmond Bane,Desmond,Bane,2021-22,Backcourt,Back Court(BC),1,0,0.0,49,1,0.0204,-0.0204
+1630217,Desmond Bane,Desmond,Bane,2021-22,In The Paint (Non-RA),Center(C),160,62,0.3875,5208,2296,0.4409,-0.0534
+1630217,Desmond Bane,Desmond,Bane,2021-22,In The Paint (Non-RA),Left Side(L),20,7,0.35,379,185,0.4881,-0.1381
+1630217,Desmond Bane,Desmond,Bane,2021-22,In The Paint (Non-RA),Right Side(R),13,3,0.2308,384,151,0.3932,-0.1624
+1630217,Desmond Bane,Desmond,Bane,2021-22,Left Corner 3,Left Side(L),71,27,0.3803,979,384,0.3922,-0.0119
+1630217,Desmond Bane,Desmond,Bane,2021-22,Mid-Range,Center(C),71,31,0.4366,1048,479,0.4571,-0.0205
+1630217,Desmond Bane,Desmond,Bane,2021-22,Mid-Range,Left Side Center(LC),15,7,0.4667,621,253,0.4074,0.0593
+1630217,Desmond Bane,Desmond,Bane,2021-22,Mid-Range,Left Side(L),31,11,0.3548,1331,531,0.3989,-0.0441
+1630217,Desmond Bane,Desmond,Bane,2021-22,Mid-Range,Right Side Center(RC),30,14,0.4667,662,277,0.4184,0.0483
+1630217,Desmond Bane,Desmond,Bane,2021-22,Mid-Range,Right Side(R),35,13,0.3714,1244,553,0.4445,-0.0731
+1630217,Desmond Bane,Desmond,Bane,2021-22,Restricted Area,Center(C),203,132,0.6502,7951,5372,0.6756,-0.0254
+1630217,Desmond Bane,Desmond,Bane,2021-22,Right Corner 3,Right Side(R),32,13,0.4062,937,380,0.4055,0.0007
+1630217,Desmond Bane,Desmond,Bane,2022-23,Above the Break 3,Center(C),114,48,0.4211,2478,863,0.3483,0.0728
+1630217,Desmond Bane,Desmond,Bane,2022-23,Above the Break 3,Left Side Center(LC),121,44,0.3636,3403,1285,0.3776,-0.014
+1630217,Desmond Bane,Desmond,Bane,2022-23,Above the Break 3,Right Side Center(RC),108,42,0.3889,3418,1282,0.3751,0.0138
+1630217,Desmond Bane,Desmond,Bane,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+1630217,Desmond Bane,Desmond,Bane,2022-23,In The Paint (Non-RA),Center(C),166,76,0.4578,6180,2799,0.4529,0.0049
+1630217,Desmond Bane,Desmond,Bane,2022-23,In The Paint (Non-RA),Left Side(L),6,2,0.3333,420,203,0.4833,-0.15
+1630217,Desmond Bane,Desmond,Bane,2022-23,In The Paint (Non-RA),Right Side(R),14,5,0.3571,466,222,0.4764,-0.1193
+1630217,Desmond Bane,Desmond,Bane,2022-23,Left Corner 3,Left Side(L),45,21,0.4667,1041,434,0.4169,0.0498
+1630217,Desmond Bane,Desmond,Bane,2022-23,Mid-Range,Center(C),20,10,0.5,1100,486,0.4418,0.0582
+1630217,Desmond Bane,Desmond,Bane,2022-23,Mid-Range,Left Side Center(LC),4,2,0.5,723,292,0.4039,0.0961
+1630217,Desmond Bane,Desmond,Bane,2022-23,Mid-Range,Left Side(L),19,8,0.4211,1305,551,0.4222,-0.0011
+1630217,Desmond Bane,Desmond,Bane,2022-23,Mid-Range,Right Side Center(RC),23,13,0.5652,814,388,0.4767,0.0885
+1630217,Desmond Bane,Desmond,Bane,2022-23,Mid-Range,Right Side(R),18,8,0.4444,1287,585,0.4545,-0.0101
+1630217,Desmond Bane,Desmond,Bane,2022-23,Restricted Area,Center(C),262,160,0.6107,9615,6601,0.6865,-0.0758
+1630217,Desmond Bane,Desmond,Bane,2022-23,Right Corner 3,Right Side(R),17,11,0.6471,991,399,0.4026,0.2445
+1630217,Desmond Bane,Desmond,Bane,2023-24,Above the Break 3,Center(C),85,33,0.3882,3110,1144,0.3678,0.0204
+1630217,Desmond Bane,Desmond,Bane,2023-24,Above the Break 3,Left Side Center(LC),107,41,0.3832,4149,1558,0.3755,0.0077
+1630217,Desmond Bane,Desmond,Bane,2023-24,Above the Break 3,Right Side Center(RC),112,38,0.3393,3883,1445,0.3721,-0.0328
+1630217,Desmond Bane,Desmond,Bane,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+1630217,Desmond Bane,Desmond,Bane,2023-24,In The Paint (Non-RA),Center(C),107,39,0.3645,6614,3028,0.4578,-0.0933
+1630217,Desmond Bane,Desmond,Bane,2023-24,In The Paint (Non-RA),Left Side(L),3,2,0.6667,508,239,0.4705,0.1962
+1630217,Desmond Bane,Desmond,Bane,2023-24,In The Paint (Non-RA),Right Side(R),5,3,0.6,507,225,0.4438,0.1562
+1630217,Desmond Bane,Desmond,Bane,2023-24,Left Corner 3,Left Side(L),28,14,0.5,1020,403,0.3951,0.1049
+1630217,Desmond Bane,Desmond,Bane,2023-24,Mid-Range,Center(C),27,11,0.4074,1403,647,0.4612,-0.0538
+1630217,Desmond Bane,Desmond,Bane,2023-24,Mid-Range,Left Side Center(LC),13,5,0.3846,861,380,0.4413,-0.0567
+1630217,Desmond Bane,Desmond,Bane,2023-24,Mid-Range,Left Side(L),19,8,0.4211,1539,668,0.434,-0.0129
+1630217,Desmond Bane,Desmond,Bane,2023-24,Mid-Range,Right Side Center(RC),23,8,0.3478,935,389,0.416,-0.0682
+1630217,Desmond Bane,Desmond,Bane,2023-24,Mid-Range,Right Side(R),18,10,0.5556,1524,649,0.4259,0.1297
+1630217,Desmond Bane,Desmond,Bane,2023-24,Restricted Area,Center(C),200,137,0.685,10307,7128,0.6916,-0.0066
+1630217,Desmond Bane,Desmond,Bane,2023-24,Right Corner 3,Right Side(R),27,11,0.4074,957,403,0.4211,-0.0137
+1626164,Devin Booker,Devin,Booker,2021-22,Above the Break 3,Center(C),91,34,0.3736,2263,800,0.3535,0.0201
+1626164,Devin Booker,Devin,Booker,2021-22,Above the Break 3,Left Side Center(LC),174,64,0.3678,3059,1095,0.358,0.0098
+1626164,Devin Booker,Devin,Booker,2021-22,Above the Break 3,Right Side Center(RC),142,57,0.4014,2983,1082,0.3627,0.0387
+1626164,Devin Booker,Devin,Booker,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1626164,Devin Booker,Devin,Booker,2021-22,In The Paint (Non-RA),Center(C),229,103,0.4498,5208,2296,0.4409,0.0089
+1626164,Devin Booker,Devin,Booker,2021-22,In The Paint (Non-RA),Left Side(L),30,18,0.6,379,185,0.4881,0.1119
+1626164,Devin Booker,Devin,Booker,2021-22,In The Paint (Non-RA),Right Side(R),26,9,0.3462,384,151,0.3932,-0.047
+1626164,Devin Booker,Devin,Booker,2021-22,Left Corner 3,Left Side(L),30,11,0.3667,979,384,0.3922,-0.0255
+1626164,Devin Booker,Devin,Booker,2021-22,Mid-Range,Center(C),93,51,0.5484,1048,479,0.4571,0.0913
+1626164,Devin Booker,Devin,Booker,2021-22,Mid-Range,Left Side Center(LC),56,24,0.4286,621,253,0.4074,0.0212
+1626164,Devin Booker,Devin,Booker,2021-22,Mid-Range,Left Side(L),121,49,0.405,1331,531,0.3989,0.0061
+1626164,Devin Booker,Devin,Booker,2021-22,Mid-Range,Right Side Center(RC),66,27,0.4091,662,277,0.4184,-0.0093
+1626164,Devin Booker,Devin,Booker,2021-22,Mid-Range,Right Side(R),131,68,0.5191,1244,553,0.4445,0.0746
+1626164,Devin Booker,Devin,Booker,2021-22,Restricted Area,Center(C),194,132,0.6804,7951,5372,0.6756,0.0048
+1626164,Devin Booker,Devin,Booker,2021-22,Right Corner 3,Right Side(R),36,15,0.4167,937,380,0.4055,0.0112
+1626164,Devin Booker,Devin,Booker,2022-23,Above the Break 3,Center(C),59,18,0.3051,2478,863,0.3483,-0.0432
+1626164,Devin Booker,Devin,Booker,2022-23,Above the Break 3,Left Side Center(LC),107,42,0.3925,3403,1285,0.3776,0.0149
+1626164,Devin Booker,Devin,Booker,2022-23,Above the Break 3,Right Side Center(RC),101,33,0.3267,3418,1282,0.3751,-0.0484
+1626164,Devin Booker,Devin,Booker,2022-23,In The Paint (Non-RA),Center(C),202,103,0.5099,6180,2799,0.4529,0.057
+1626164,Devin Booker,Devin,Booker,2022-23,In The Paint (Non-RA),Left Side(L),23,12,0.5217,420,203,0.4833,0.0384
+1626164,Devin Booker,Devin,Booker,2022-23,In The Paint (Non-RA),Right Side(R),14,10,0.7143,466,222,0.4764,0.2379
+1626164,Devin Booker,Devin,Booker,2022-23,Left Corner 3,Left Side(L),24,10,0.4167,1041,434,0.4169,-0.0002
+1626164,Devin Booker,Devin,Booker,2022-23,Mid-Range,Center(C),68,38,0.5588,1100,486,0.4418,0.117
+1626164,Devin Booker,Devin,Booker,2022-23,Mid-Range,Left Side Center(LC),38,16,0.4211,723,292,0.4039,0.0172
+1626164,Devin Booker,Devin,Booker,2022-23,Mid-Range,Left Side(L),75,39,0.52,1305,551,0.4222,0.0978
+1626164,Devin Booker,Devin,Booker,2022-23,Mid-Range,Right Side Center(RC),37,17,0.4595,814,388,0.4767,-0.0172
+1626164,Devin Booker,Devin,Booker,2022-23,Mid-Range,Right Side(R),92,43,0.4674,1287,585,0.4545,0.0129
+1626164,Devin Booker,Devin,Booker,2022-23,Restricted Area,Center(C),202,138,0.6832,9615,6601,0.6865,-0.0033
+1626164,Devin Booker,Devin,Booker,2022-23,Right Corner 3,Right Side(R),25,8,0.32,991,399,0.4026,-0.0826
+1626164,Devin Booker,Devin,Booker,2023-24,Above the Break 3,Center(C),114,35,0.307,3110,1144,0.3678,-0.0608
+1626164,Devin Booker,Devin,Booker,2023-24,Above the Break 3,Left Side Center(LC),153,53,0.3464,4149,1558,0.3755,-0.0291
+1626164,Devin Booker,Devin,Booker,2023-24,Above the Break 3,Right Side Center(RC),115,46,0.4,3883,1445,0.3721,0.0279
+1626164,Devin Booker,Devin,Booker,2023-24,In The Paint (Non-RA),Center(C),236,123,0.5212,6614,3028,0.4578,0.0634
+1626164,Devin Booker,Devin,Booker,2023-24,In The Paint (Non-RA),Left Side(L),22,13,0.5909,508,239,0.4705,0.1204
+1626164,Devin Booker,Devin,Booker,2023-24,In The Paint (Non-RA),Right Side(R),29,16,0.5517,507,225,0.4438,0.1079
+1626164,Devin Booker,Devin,Booker,2023-24,Left Corner 3,Left Side(L),28,12,0.4286,1020,403,0.3951,0.0335
+1626164,Devin Booker,Devin,Booker,2023-24,Mid-Range,Center(C),66,35,0.5303,1403,647,0.4612,0.0691
+1626164,Devin Booker,Devin,Booker,2023-24,Mid-Range,Left Side Center(LC),57,26,0.4561,861,380,0.4413,0.0148
+1626164,Devin Booker,Devin,Booker,2023-24,Mid-Range,Left Side(L),93,46,0.4946,1539,668,0.434,0.0606
+1626164,Devin Booker,Devin,Booker,2023-24,Mid-Range,Right Side Center(RC),64,33,0.5156,935,389,0.416,0.0996
+1626164,Devin Booker,Devin,Booker,2023-24,Mid-Range,Right Side(R),98,44,0.449,1524,649,0.4259,0.0231
+1626164,Devin Booker,Devin,Booker,2023-24,Restricted Area,Center(C),222,154,0.6937,10307,7128,0.6916,0.0021
+1626164,Devin Booker,Devin,Booker,2023-24,Right Corner 3,Right Side(R),8,6,0.75,957,403,0.4211,0.3289
+203110,Draymond Green,Draymond,Green,2021-22,Above the Break 3,Center(C),13,7,0.5385,2263,800,0.3535,0.185
+203110,Draymond Green,Draymond,Green,2021-22,Above the Break 3,Left Side Center(LC),13,4,0.3077,3059,1095,0.358,-0.0503
+203110,Draymond Green,Draymond,Green,2021-22,Above the Break 3,Right Side Center(RC),12,3,0.25,2983,1082,0.3627,-0.1127
+203110,Draymond Green,Draymond,Green,2021-22,Backcourt,Back Court(BC),4,0,0.0,49,1,0.0204,-0.0204
+203110,Draymond Green,Draymond,Green,2021-22,In The Paint (Non-RA),Center(C),81,40,0.4938,5208,2296,0.4409,0.0529
+203110,Draymond Green,Draymond,Green,2021-22,In The Paint (Non-RA),Left Side(L),1,0,0.0,379,185,0.4881,-0.4881
+203110,Draymond Green,Draymond,Green,2021-22,In The Paint (Non-RA),Right Side(R),3,0,0.0,384,151,0.3932,-0.3932
+203110,Draymond Green,Draymond,Green,2021-22,Left Corner 3,Left Side(L),5,0,0.0,979,384,0.3922,-0.3922
+203110,Draymond Green,Draymond,Green,2021-22,Mid-Range,Center(C),6,0,0.0,1048,479,0.4571,-0.4571
+203110,Draymond Green,Draymond,Green,2021-22,Mid-Range,Left Side Center(LC),3,2,0.6667,621,253,0.4074,0.2593
+203110,Draymond Green,Draymond,Green,2021-22,Mid-Range,Left Side(L),3,2,0.6667,1331,531,0.3989,0.2678
+203110,Draymond Green,Draymond,Green,2021-22,Mid-Range,Right Side Center(RC),3,0,0.0,662,277,0.4184,-0.4184
+203110,Draymond Green,Draymond,Green,2021-22,Restricted Area,Center(C),103,75,0.7282,7951,5372,0.6756,0.0526
+203110,Draymond Green,Draymond,Green,2021-22,Right Corner 3,Right Side(R),7,2,0.2857,937,380,0.4055,-0.1198
+203110,Draymond Green,Draymond,Green,2022-23,Above the Break 3,Center(C),33,10,0.303,2478,863,0.3483,-0.0453
+203110,Draymond Green,Draymond,Green,2022-23,Above the Break 3,Left Side Center(LC),27,9,0.3333,3403,1285,0.3776,-0.0443
+203110,Draymond Green,Draymond,Green,2022-23,Above the Break 3,Right Side Center(RC),28,8,0.2857,3418,1282,0.3751,-0.0894
+203110,Draymond Green,Draymond,Green,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+203110,Draymond Green,Draymond,Green,2022-23,In The Paint (Non-RA),Center(C),125,64,0.512,6180,2799,0.4529,0.0591
+203110,Draymond Green,Draymond,Green,2022-23,In The Paint (Non-RA),Left Side(L),1,0,0.0,420,203,0.4833,-0.4833
+203110,Draymond Green,Draymond,Green,2022-23,In The Paint (Non-RA),Right Side(R),2,2,1.0,466,222,0.4764,0.5236
+203110,Draymond Green,Draymond,Green,2022-23,Left Corner 3,Left Side(L),22,4,0.1818,1041,434,0.4169,-0.2351
+203110,Draymond Green,Draymond,Green,2022-23,Mid-Range,Center(C),6,1,0.1667,1100,486,0.4418,-0.2751
+203110,Draymond Green,Draymond,Green,2022-23,Mid-Range,Left Side Center(LC),2,0,0.0,723,292,0.4039,-0.4039
+203110,Draymond Green,Draymond,Green,2022-23,Mid-Range,Left Side(L),8,6,0.75,1305,551,0.4222,0.3278
+203110,Draymond Green,Draymond,Green,2022-23,Mid-Range,Right Side Center(RC),1,1,1.0,814,388,0.4767,0.5233
+203110,Draymond Green,Draymond,Green,2022-23,Mid-Range,Right Side(R),4,2,0.5,1287,585,0.4545,0.0455
+203110,Draymond Green,Draymond,Green,2022-23,Restricted Area,Center(C),194,134,0.6907,9615,6601,0.6865,0.0042
+203110,Draymond Green,Draymond,Green,2022-23,Right Corner 3,Right Side(R),19,9,0.4737,991,399,0.4026,0.0711
+203110,Draymond Green,Draymond,Green,2023-24,Above the Break 3,Back Court(BC),1,1,1.0,7,3,0.4286,0.5714
+203110,Draymond Green,Draymond,Green,2023-24,Above the Break 3,Center(C),30,10,0.3333,3110,1144,0.3678,-0.0345
+203110,Draymond Green,Draymond,Green,2023-24,Above the Break 3,Left Side Center(LC),32,14,0.4375,4149,1558,0.3755,0.062
+203110,Draymond Green,Draymond,Green,2023-24,Above the Break 3,Right Side Center(RC),25,9,0.36,3883,1445,0.3721,-0.0121
+203110,Draymond Green,Draymond,Green,2023-24,In The Paint (Non-RA),Center(C),87,35,0.4023,6614,3028,0.4578,-0.0555
+203110,Draymond Green,Draymond,Green,2023-24,In The Paint (Non-RA),Left Side(L),1,0,0.0,508,239,0.4705,-0.4705
+203110,Draymond Green,Draymond,Green,2023-24,Left Corner 3,Left Side(L),20,6,0.3,1020,403,0.3951,-0.0951
+203110,Draymond Green,Draymond,Green,2023-24,Mid-Range,Center(C),5,1,0.2,1403,647,0.4612,-0.2612
+203110,Draymond Green,Draymond,Green,2023-24,Mid-Range,Left Side(L),2,1,0.5,1539,668,0.434,0.066
+203110,Draymond Green,Draymond,Green,2023-24,Mid-Range,Right Side Center(RC),1,1,1.0,935,389,0.416,0.584
+203110,Draymond Green,Draymond,Green,2023-24,Mid-Range,Right Side(R),7,2,0.2857,1524,649,0.4259,-0.1402
+203110,Draymond Green,Draymond,Green,2023-24,Restricted Area,Center(C),140,94,0.6714,10307,7128,0.6916,-0.0202
+203110,Draymond Green,Draymond,Green,2023-24,Right Corner 3,Right Side(R),21,11,0.5238,957,403,0.4211,0.1027
+1630596,Evan Mobley,Evan,Mobley,2021-22,Above the Break 3,Center(C),16,3,0.1875,2263,800,0.3535,-0.166
+1630596,Evan Mobley,Evan,Mobley,2021-22,Above the Break 3,Left Side Center(LC),27,8,0.2963,3059,1095,0.358,-0.0617
+1630596,Evan Mobley,Evan,Mobley,2021-22,Above the Break 3,Right Side Center(RC),27,5,0.1852,2983,1082,0.3627,-0.1775
+1630596,Evan Mobley,Evan,Mobley,2021-22,Backcourt,Back Court(BC),1,0,0.0,49,1,0.0204,-0.0204
+1630596,Evan Mobley,Evan,Mobley,2021-22,In The Paint (Non-RA),Center(C),228,86,0.3772,5208,2296,0.4409,-0.0637
+1630596,Evan Mobley,Evan,Mobley,2021-22,In The Paint (Non-RA),Left Side(L),19,8,0.4211,379,185,0.4881,-0.067
+1630596,Evan Mobley,Evan,Mobley,2021-22,In The Paint (Non-RA),Right Side(R),16,7,0.4375,384,151,0.3932,0.0443
+1630596,Evan Mobley,Evan,Mobley,2021-22,Left Corner 3,Left Side(L),10,3,0.3,979,384,0.3922,-0.0922
+1630596,Evan Mobley,Evan,Mobley,2021-22,Mid-Range,Center(C),29,11,0.3793,1048,479,0.4571,-0.0778
+1630596,Evan Mobley,Evan,Mobley,2021-22,Mid-Range,Left Side Center(LC),15,3,0.2,621,253,0.4074,-0.2074
+1630596,Evan Mobley,Evan,Mobley,2021-22,Mid-Range,Left Side(L),44,18,0.4091,1331,531,0.3989,0.0102
+1630596,Evan Mobley,Evan,Mobley,2021-22,Mid-Range,Right Side Center(RC),11,5,0.4545,662,277,0.4184,0.0361
+1630596,Evan Mobley,Evan,Mobley,2021-22,Mid-Range,Right Side(R),36,14,0.3889,1244,553,0.4445,-0.0556
+1630596,Evan Mobley,Evan,Mobley,2021-22,Restricted Area,Center(C),340,247,0.7265,7951,5372,0.6756,0.0509
+1630596,Evan Mobley,Evan,Mobley,2021-22,Right Corner 3,Right Side(R),11,4,0.3636,937,380,0.4055,-0.0419
+1630596,Evan Mobley,Evan,Mobley,2022-23,Above the Break 3,Center(C),18,4,0.2222,2478,863,0.3483,-0.1261
+1630596,Evan Mobley,Evan,Mobley,2022-23,Above the Break 3,Left Side Center(LC),19,6,0.3158,3403,1285,0.3776,-0.0618
+1630596,Evan Mobley,Evan,Mobley,2022-23,Above the Break 3,Right Side Center(RC),21,4,0.1905,3418,1282,0.3751,-0.1846
+1630596,Evan Mobley,Evan,Mobley,2022-23,In The Paint (Non-RA),Center(C),278,110,0.3957,6180,2799,0.4529,-0.0572
+1630596,Evan Mobley,Evan,Mobley,2022-23,In The Paint (Non-RA),Left Side(L),19,9,0.4737,420,203,0.4833,-0.0096
+1630596,Evan Mobley,Evan,Mobley,2022-23,In The Paint (Non-RA),Right Side(R),18,7,0.3889,466,222,0.4764,-0.0875
+1630596,Evan Mobley,Evan,Mobley,2022-23,Left Corner 3,Left Side(L),19,2,0.1053,1041,434,0.4169,-0.3116
+1630596,Evan Mobley,Evan,Mobley,2022-23,Mid-Range,Center(C),27,10,0.3704,1100,486,0.4418,-0.0714
+1630596,Evan Mobley,Evan,Mobley,2022-23,Mid-Range,Left Side Center(LC),9,4,0.4444,723,292,0.4039,0.0405
+1630596,Evan Mobley,Evan,Mobley,2022-23,Mid-Range,Left Side(L),16,5,0.3125,1305,551,0.4222,-0.1097
+1630596,Evan Mobley,Evan,Mobley,2022-23,Mid-Range,Right Side Center(RC),9,4,0.4444,814,388,0.4767,-0.0323
+1630596,Evan Mobley,Evan,Mobley,2022-23,Mid-Range,Right Side(R),30,13,0.4333,1287,585,0.4545,-0.0212
+1630596,Evan Mobley,Evan,Mobley,2022-23,Restricted Area,Center(C),439,341,0.7768,9615,6601,0.6865,0.0903
+1630596,Evan Mobley,Evan,Mobley,2022-23,Right Corner 3,Right Side(R),25,6,0.24,991,399,0.4026,-0.1626
+1630596,Evan Mobley,Evan,Mobley,2023-24,Above the Break 3,Center(C),12,6,0.5,3110,1144,0.3678,0.1322
+1630596,Evan Mobley,Evan,Mobley,2023-24,Above the Break 3,Left Side Center(LC),12,5,0.4167,4149,1558,0.3755,0.0412
+1630596,Evan Mobley,Evan,Mobley,2023-24,Above the Break 3,Right Side Center(RC),9,2,0.2222,3883,1445,0.3721,-0.1499
+1630596,Evan Mobley,Evan,Mobley,2023-24,In The Paint (Non-RA),Center(C),155,67,0.4323,6614,3028,0.4578,-0.0255
+1630596,Evan Mobley,Evan,Mobley,2023-24,In The Paint (Non-RA),Left Side(L),4,4,1.0,508,239,0.4705,0.5295
+1630596,Evan Mobley,Evan,Mobley,2023-24,In The Paint (Non-RA),Right Side(R),9,4,0.4444,507,225,0.4438,0.0006
+1630596,Evan Mobley,Evan,Mobley,2023-24,Left Corner 3,Left Side(L),10,3,0.3,1020,403,0.3951,-0.0951
+1630596,Evan Mobley,Evan,Mobley,2023-24,Mid-Range,Center(C),9,5,0.5556,1403,647,0.4612,0.0944
+1630596,Evan Mobley,Evan,Mobley,2023-24,Mid-Range,Left Side Center(LC),2,0,0.0,861,380,0.4413,-0.4413
+1630596,Evan Mobley,Evan,Mobley,2023-24,Mid-Range,Left Side(L),10,2,0.2,1539,668,0.434,-0.234
+1630596,Evan Mobley,Evan,Mobley,2023-24,Mid-Range,Right Side Center(RC),5,0,0.0,935,389,0.416,-0.416
+1630596,Evan Mobley,Evan,Mobley,2023-24,Mid-Range,Right Side(R),6,1,0.1667,1524,649,0.4259,-0.2592
+1630596,Evan Mobley,Evan,Mobley,2023-24,Restricted Area,Center(C),293,215,0.7338,10307,7128,0.6916,0.0422
+1630596,Evan Mobley,Evan,Mobley,2023-24,Right Corner 3,Right Side(R),16,6,0.375,957,403,0.4211,-0.0461
+1630532,Franz Wagner,Franz,Wagner,2021-22,Above the Break 3,Center(C),46,13,0.2826,2263,800,0.3535,-0.0709
+1630532,Franz Wagner,Franz,Wagner,2021-22,Above the Break 3,Left Side Center(LC),71,25,0.3521,3059,1095,0.358,-0.0059
+1630532,Franz Wagner,Franz,Wagner,2021-22,Above the Break 3,Right Side Center(RC),88,29,0.3295,2983,1082,0.3627,-0.0332
+1630532,Franz Wagner,Franz,Wagner,2021-22,In The Paint (Non-RA),Center(C),248,104,0.4194,5208,2296,0.4409,-0.0215
+1630532,Franz Wagner,Franz,Wagner,2021-22,In The Paint (Non-RA),Left Side(L),9,6,0.6667,379,185,0.4881,0.1786
+1630532,Franz Wagner,Franz,Wagner,2021-22,In The Paint (Non-RA),Right Side(R),13,2,0.1538,384,151,0.3932,-0.2394
+1630532,Franz Wagner,Franz,Wagner,2021-22,Left Corner 3,Left Side(L),36,20,0.5556,979,384,0.3922,0.1634
+1630532,Franz Wagner,Franz,Wagner,2021-22,Mid-Range,Center(C),8,2,0.25,1048,479,0.4571,-0.2071
+1630532,Franz Wagner,Franz,Wagner,2021-22,Mid-Range,Left Side Center(LC),1,0,0.0,621,253,0.4074,-0.4074
+1630532,Franz Wagner,Franz,Wagner,2021-22,Mid-Range,Left Side(L),18,5,0.2778,1331,531,0.3989,-0.1211
+1630532,Franz Wagner,Franz,Wagner,2021-22,Mid-Range,Right Side Center(RC),2,2,1.0,662,277,0.4184,0.5816
+1630532,Franz Wagner,Franz,Wagner,2021-22,Mid-Range,Right Side(R),10,3,0.3,1244,553,0.4445,-0.1445
+1630532,Franz Wagner,Franz,Wagner,2021-22,Restricted Area,Center(C),395,236,0.5975,7951,5372,0.6756,-0.0781
+1630532,Franz Wagner,Franz,Wagner,2021-22,Right Corner 3,Right Side(R),30,9,0.3,937,380,0.4055,-0.1055
+1630532,Franz Wagner,Franz,Wagner,2022-23,Above the Break 3,Center(C),67,24,0.3582,2478,863,0.3483,0.0099
+1630532,Franz Wagner,Franz,Wagner,2022-23,Above the Break 3,Left Side Center(LC),123,50,0.4065,3403,1285,0.3776,0.0289
+1630532,Franz Wagner,Franz,Wagner,2022-23,Above the Break 3,Right Side Center(RC),103,29,0.2816,3418,1282,0.3751,-0.0935
+1630532,Franz Wagner,Franz,Wagner,2022-23,Backcourt,Back Court(BC),4,0,0.0,67,2,0.0299,-0.0299
+1630532,Franz Wagner,Franz,Wagner,2022-23,In The Paint (Non-RA),Center(C),249,102,0.4096,6180,2799,0.4529,-0.0433
+1630532,Franz Wagner,Franz,Wagner,2022-23,In The Paint (Non-RA),Left Side(L),15,5,0.3333,420,203,0.4833,-0.15
+1630532,Franz Wagner,Franz,Wagner,2022-23,In The Paint (Non-RA),Right Side(R),11,6,0.5455,466,222,0.4764,0.0691
+1630532,Franz Wagner,Franz,Wagner,2022-23,Left Corner 3,Left Side(L),34,18,0.5294,1041,434,0.4169,0.1125
+1630532,Franz Wagner,Franz,Wagner,2022-23,Mid-Range,Center(C),12,4,0.3333,1100,486,0.4418,-0.1085
+1630532,Franz Wagner,Franz,Wagner,2022-23,Mid-Range,Left Side Center(LC),6,2,0.3333,723,292,0.4039,-0.0706
+1630532,Franz Wagner,Franz,Wagner,2022-23,Mid-Range,Left Side(L),20,6,0.3,1305,551,0.4222,-0.1222
+1630532,Franz Wagner,Franz,Wagner,2022-23,Mid-Range,Right Side Center(RC),13,6,0.4615,814,388,0.4767,-0.0152
+1630532,Franz Wagner,Franz,Wagner,2022-23,Mid-Range,Right Side(R),25,15,0.6,1287,585,0.4545,0.1455
+1630532,Franz Wagner,Franz,Wagner,2022-23,Restricted Area,Center(C),407,266,0.6536,9615,6601,0.6865,-0.0329
+1630532,Franz Wagner,Franz,Wagner,2022-23,Right Corner 3,Right Side(R),29,9,0.3103,991,399,0.4026,-0.0923
+1630532,Franz Wagner,Franz,Wagner,2023-24,Above the Break 3,Back Court(BC),1,1,1.0,7,3,0.4286,0.5714
+1630532,Franz Wagner,Franz,Wagner,2023-24,Above the Break 3,Center(C),66,20,0.303,3110,1144,0.3678,-0.0648
+1630532,Franz Wagner,Franz,Wagner,2023-24,Above the Break 3,Left Side Center(LC),127,37,0.2913,4149,1558,0.3755,-0.0842
+1630532,Franz Wagner,Franz,Wagner,2023-24,Above the Break 3,Right Side Center(RC),95,27,0.2842,3883,1445,0.3721,-0.0879
+1630532,Franz Wagner,Franz,Wagner,2023-24,Backcourt,Back Court(BC),4,0,0.0,56,1,0.0179,-0.0179
+1630532,Franz Wagner,Franz,Wagner,2023-24,In The Paint (Non-RA),Center(C),237,102,0.4304,6614,3028,0.4578,-0.0274
+1630532,Franz Wagner,Franz,Wagner,2023-24,In The Paint (Non-RA),Left Side(L),7,4,0.5714,508,239,0.4705,0.1009
+1630532,Franz Wagner,Franz,Wagner,2023-24,In The Paint (Non-RA),Right Side(R),15,4,0.2667,507,225,0.4438,-0.1771
+1630532,Franz Wagner,Franz,Wagner,2023-24,Left Corner 3,Left Side(L),25,6,0.24,1020,403,0.3951,-0.1551
+1630532,Franz Wagner,Franz,Wagner,2023-24,Mid-Range,Center(C),9,2,0.2222,1403,647,0.4612,-0.239
+1630532,Franz Wagner,Franz,Wagner,2023-24,Mid-Range,Left Side Center(LC),4,1,0.25,861,380,0.4413,-0.1913
+1630532,Franz Wagner,Franz,Wagner,2023-24,Mid-Range,Left Side(L),8,5,0.625,1539,668,0.434,0.191
+1630532,Franz Wagner,Franz,Wagner,2023-24,Mid-Range,Right Side Center(RC),9,3,0.3333,935,389,0.416,-0.0827
+1630532,Franz Wagner,Franz,Wagner,2023-24,Mid-Range,Right Side(R),17,5,0.2941,1524,649,0.4259,-0.1318
+1630532,Franz Wagner,Franz,Wagner,2023-24,Restricted Area,Center(C),456,308,0.6754,10307,7128,0.6916,-0.0162
+1630532,Franz Wagner,Franz,Wagner,2023-24,Right Corner 3,Right Side(R),16,3,0.1875,957,403,0.4211,-0.2336
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Above the Break 3,Center(C),96,28,0.2917,2263,800,0.3535,-0.0618
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Above the Break 3,Left Side Center(LC),89,28,0.3146,3059,1095,0.358,-0.0434
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Above the Break 3,Right Side Center(RC),49,14,0.2857,2983,1082,0.3627,-0.077
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,In The Paint (Non-RA),Center(C),197,78,0.3959,5208,2296,0.4409,-0.045
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,In The Paint (Non-RA),Left Side(L),14,8,0.5714,379,185,0.4881,0.0833
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,In The Paint (Non-RA),Right Side(R),7,3,0.4286,384,151,0.3932,0.0354
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Left Corner 3,Left Side(L),4,1,0.25,979,384,0.3922,-0.1422
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Mid-Range,Center(C),43,18,0.4186,1048,479,0.4571,-0.0385
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Mid-Range,Left Side Center(LC),41,19,0.4634,621,253,0.4074,0.056
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Mid-Range,Left Side(L),83,35,0.4217,1331,531,0.3989,0.0228
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Mid-Range,Right Side Center(RC),18,5,0.2778,662,277,0.4184,-0.1406
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Mid-Range,Right Side(R),20,8,0.4,1244,553,0.4445,-0.0445
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Restricted Area,Center(C),580,444,0.7655,7951,5372,0.6756,0.0899
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2021-22,Right Corner 3,Right Side(R),2,0,0.0,937,380,0.4055,-0.4055
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Above the Break 3,Center(C),73,17,0.2329,2478,863,0.3483,-0.1154
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Above the Break 3,Left Side Center(LC),54,17,0.3148,3403,1285,0.3776,-0.0628
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Above the Break 3,Right Side Center(RC),39,12,0.3077,3418,1282,0.3751,-0.0674
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,In The Paint (Non-RA),Center(C),191,55,0.288,6180,2799,0.4529,-0.1649
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,In The Paint (Non-RA),Left Side(L),5,0,0.0,420,203,0.4833,-0.4833
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,In The Paint (Non-RA),Right Side(R),1,0,0.0,466,222,0.4764,-0.4764
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Left Corner 3,Left Side(L),5,1,0.2,1041,434,0.4169,-0.2169
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Mid-Range,Center(C),50,23,0.46,1100,486,0.4418,0.0182
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Mid-Range,Left Side Center(LC),50,16,0.32,723,292,0.4039,-0.0839
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Mid-Range,Left Side(L),57,17,0.2982,1305,551,0.4222,-0.124
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Mid-Range,Right Side Center(RC),19,8,0.4211,814,388,0.4767,-0.0556
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Mid-Range,Right Side(R),16,5,0.3125,1287,585,0.4545,-0.142
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2022-23,Restricted Area,Center(C),718,536,0.7465,9615,6601,0.6865,0.06
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Above the Break 3,Center(C),57,14,0.2456,3110,1144,0.3678,-0.1222
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Above the Break 3,Left Side Center(LC),41,13,0.3171,4149,1558,0.3755,-0.0584
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Above the Break 3,Right Side Center(RC),22,7,0.3182,3883,1445,0.3721,-0.0539
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,In The Paint (Non-RA),Center(C),207,80,0.3865,6614,3028,0.4578,-0.0713
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,In The Paint (Non-RA),Left Side(L),7,1,0.1429,508,239,0.4705,-0.3276
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,In The Paint (Non-RA),Right Side(R),4,0,0.0,507,225,0.4438,-0.4438
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Left Corner 3,Left Side(L),3,0,0.0,1020,403,0.3951,-0.3951
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Mid-Range,Center(C),41,15,0.3659,1403,647,0.4612,-0.0953
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Mid-Range,Left Side Center(LC),45,15,0.3333,861,380,0.4413,-0.108
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Mid-Range,Left Side(L),62,24,0.3871,1539,668,0.434,-0.0469
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Mid-Range,Right Side Center(RC),12,3,0.25,935,389,0.416,-0.166
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Mid-Range,Right Side(R),14,4,0.2857,1524,649,0.4259,-0.1402
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,2023-24,Restricted Area,Center(C),853,661,0.7749,10307,7128,0.6916,0.0833
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Above the Break 3,Center(C),49,18,0.3673,2263,800,0.3535,0.0138
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Above the Break 3,Left Side Center(LC),60,17,0.2833,3059,1095,0.358,-0.0747
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Above the Break 3,Right Side Center(RC),65,21,0.3231,2983,1082,0.3627,-0.0396
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,In The Paint (Non-RA),Center(C),260,136,0.5231,5208,2296,0.4409,0.0822
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,In The Paint (Non-RA),Left Side(L),37,19,0.5135,379,185,0.4881,0.0254
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,In The Paint (Non-RA),Right Side(R),20,8,0.4,384,151,0.3932,0.0068
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Left Corner 3,Left Side(L),41,20,0.4878,979,384,0.3922,0.0956
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Mid-Range,Center(C),45,25,0.5556,1048,479,0.4571,0.0985
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Mid-Range,Left Side Center(LC),51,20,0.3922,621,253,0.4074,-0.0152
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Mid-Range,Left Side(L),57,29,0.5088,1331,531,0.3989,0.1099
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Mid-Range,Right Side Center(RC),32,14,0.4375,662,277,0.4184,0.0191
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Mid-Range,Right Side(R),52,24,0.4615,1244,553,0.4445,0.017
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Restricted Area,Center(C),204,137,0.6716,7951,5372,0.6756,-0.004
+1628973,Jalen Brunson,Jalen,Brunson,2021-22,Right Corner 3,Right Side(R),35,18,0.5143,937,380,0.4055,0.1088
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Above the Break 3,Center(C),58,20,0.3448,2478,863,0.3483,-0.0035
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Above the Break 3,Left Side Center(LC),67,29,0.4328,3403,1285,0.3776,0.0552
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Above the Break 3,Right Side Center(RC),124,51,0.4113,3418,1282,0.3751,0.0362
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,In The Paint (Non-RA),Center(C),359,184,0.5125,6180,2799,0.4529,0.0596
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,In The Paint (Non-RA),Left Side(L),30,14,0.4667,420,203,0.4833,-0.0166
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,In The Paint (Non-RA),Right Side(R),35,17,0.4857,466,222,0.4764,0.0093
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Left Corner 3,Left Side(L),23,13,0.5652,1041,434,0.4169,0.1483
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Mid-Range,Center(C),30,13,0.4333,1100,486,0.4418,-0.0085
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Mid-Range,Left Side Center(LC),28,12,0.4286,723,292,0.4039,0.0247
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Mid-Range,Left Side(L),46,16,0.3478,1305,551,0.4222,-0.0744
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Mid-Range,Right Side Center(RC),37,23,0.6216,814,388,0.4767,0.1449
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Mid-Range,Right Side(R),78,39,0.5,1287,585,0.4545,0.0455
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Restricted Area,Center(C),233,138,0.5923,9615,6601,0.6865,-0.0942
+1628973,Jalen Brunson,Jalen,Brunson,2022-23,Right Corner 3,Right Side(R),47,18,0.383,991,399,0.4026,-0.0196
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Above the Break 3,Center(C),110,39,0.3545,3110,1144,0.3678,-0.0133
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Above the Break 3,Left Side Center(LC),116,48,0.4138,4149,1558,0.3755,0.0383
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Above the Break 3,Right Side Center(RC),227,91,0.4009,3883,1445,0.3721,0.0288
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,In The Paint (Non-RA),Center(C),447,231,0.5168,6614,3028,0.4578,0.059
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,In The Paint (Non-RA),Left Side(L),52,31,0.5962,508,239,0.4705,0.1257
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,In The Paint (Non-RA),Right Side(R),25,14,0.56,507,225,0.4438,0.1162
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Left Corner 3,Left Side(L),21,9,0.4286,1020,403,0.3951,0.0335
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Mid-Range,Center(C),71,34,0.4789,1403,647,0.4612,0.0177
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Mid-Range,Left Side Center(LC),40,20,0.5,861,380,0.4413,0.0587
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Mid-Range,Left Side(L),62,26,0.4194,1539,668,0.434,-0.0146
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Mid-Range,Right Side Center(RC),49,22,0.449,935,389,0.416,0.033
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Mid-Range,Right Side(R),92,32,0.3478,1524,649,0.4259,-0.0781
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Restricted Area,Center(C),284,169,0.5951,10307,7128,0.6916,-0.0965
+1628973,Jalen Brunson,Jalen,Brunson,2023-24,Right Corner 3,Right Side(R),51,24,0.4706,957,403,0.4211,0.0495
+1631114,Jalen Williams,Jalen,Williams,2022-23,Above the Break 3,Center(C),31,13,0.4194,2478,863,0.3483,0.0711
+1631114,Jalen Williams,Jalen,Williams,2022-23,Above the Break 3,Left Side Center(LC),73,29,0.3973,3403,1285,0.3776,0.0197
+1631114,Jalen Williams,Jalen,Williams,2022-23,Above the Break 3,Right Side Center(RC),67,20,0.2985,3418,1282,0.3751,-0.0766
+1631114,Jalen Williams,Jalen,Williams,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+1631114,Jalen Williams,Jalen,Williams,2022-23,In The Paint (Non-RA),Center(C),145,52,0.3586,6180,2799,0.4529,-0.0943
+1631114,Jalen Williams,Jalen,Williams,2022-23,In The Paint (Non-RA),Left Side(L),23,16,0.6957,420,203,0.4833,0.2124
+1631114,Jalen Williams,Jalen,Williams,2022-23,In The Paint (Non-RA),Right Side(R),9,5,0.5556,466,222,0.4764,0.0792
+1631114,Jalen Williams,Jalen,Williams,2022-23,Left Corner 3,Left Side(L),22,6,0.2727,1041,434,0.4169,-0.1442
+1631114,Jalen Williams,Jalen,Williams,2022-23,Mid-Range,Center(C),18,8,0.4444,1100,486,0.4418,0.0026
+1631114,Jalen Williams,Jalen,Williams,2022-23,Mid-Range,Left Side Center(LC),9,3,0.3333,723,292,0.4039,-0.0706
+1631114,Jalen Williams,Jalen,Williams,2022-23,Mid-Range,Left Side(L),19,7,0.3684,1305,551,0.4222,-0.0538
+1631114,Jalen Williams,Jalen,Williams,2022-23,Mid-Range,Right Side Center(RC),9,2,0.2222,814,388,0.4767,-0.2545
+1631114,Jalen Williams,Jalen,Williams,2022-23,Mid-Range,Right Side(R),10,4,0.4,1287,585,0.4545,-0.0545
+1631114,Jalen Williams,Jalen,Williams,2022-23,Restricted Area,Center(C),347,244,0.7032,9615,6601,0.6865,0.0167
+1631114,Jalen Williams,Jalen,Williams,2022-23,Right Corner 3,Right Side(R),10,5,0.5,991,399,0.4026,0.0974
+1631114,Jalen Williams,Jalen,Williams,2023-24,Above the Break 3,Center(C),53,24,0.4528,3110,1144,0.3678,0.085
+1631114,Jalen Williams,Jalen,Williams,2023-24,Above the Break 3,Left Side Center(LC),91,31,0.3407,4149,1558,0.3755,-0.0348
+1631114,Jalen Williams,Jalen,Williams,2023-24,Above the Break 3,Right Side Center(RC),71,35,0.493,3883,1445,0.3721,0.1209
+1631114,Jalen Williams,Jalen,Williams,2023-24,In The Paint (Non-RA),Center(C),219,101,0.4612,6614,3028,0.4578,0.0034
+1631114,Jalen Williams,Jalen,Williams,2023-24,In The Paint (Non-RA),Left Side(L),42,28,0.6667,508,239,0.4705,0.1962
+1631114,Jalen Williams,Jalen,Williams,2023-24,In The Paint (Non-RA),Right Side(R),18,7,0.3889,507,225,0.4438,-0.0549
+1631114,Jalen Williams,Jalen,Williams,2023-24,Left Corner 3,Left Side(L),12,7,0.5833,1020,403,0.3951,0.1882
+1631114,Jalen Williams,Jalen,Williams,2023-24,Mid-Range,Center(C),28,12,0.4286,1403,647,0.4612,-0.0326
+1631114,Jalen Williams,Jalen,Williams,2023-24,Mid-Range,Left Side Center(LC),29,17,0.5862,861,380,0.4413,0.1449
+1631114,Jalen Williams,Jalen,Williams,2023-24,Mid-Range,Left Side(L),54,27,0.5,1539,668,0.434,0.066
+1631114,Jalen Williams,Jalen,Williams,2023-24,Mid-Range,Right Side Center(RC),30,14,0.4667,935,389,0.416,0.0507
+1631114,Jalen Williams,Jalen,Williams,2023-24,Mid-Range,Right Side(R),25,11,0.44,1524,649,0.4259,0.0141
+1631114,Jalen Williams,Jalen,Williams,2023-24,Restricted Area,Center(C),307,216,0.7036,10307,7128,0.6916,0.012
+1631114,Jalen Williams,Jalen,Williams,2023-24,Right Corner 3,Right Side(R),14,6,0.4286,957,403,0.4211,0.0075
+1627750,Jamal Murray,Jamal,Murray,2022-23,Above the Break 3,Center(C),99,36,0.3636,2478,863,0.3483,0.0153
+1627750,Jamal Murray,Jamal,Murray,2022-23,Above the Break 3,Left Side Center(LC),162,65,0.4012,3403,1285,0.3776,0.0236
+1627750,Jamal Murray,Jamal,Murray,2022-23,Above the Break 3,Right Side Center(RC),108,43,0.3981,3418,1282,0.3751,0.023
+1627750,Jamal Murray,Jamal,Murray,2022-23,Backcourt,Back Court(BC),8,0,0.0,67,2,0.0299,-0.0299
+1627750,Jamal Murray,Jamal,Murray,2022-23,In The Paint (Non-RA),Center(C),140,54,0.3857,6180,2799,0.4529,-0.0672
+1627750,Jamal Murray,Jamal,Murray,2022-23,In The Paint (Non-RA),Left Side(L),20,10,0.5,420,203,0.4833,0.0167
+1627750,Jamal Murray,Jamal,Murray,2022-23,In The Paint (Non-RA),Right Side(R),10,6,0.6,466,222,0.4764,0.1236
+1627750,Jamal Murray,Jamal,Murray,2022-23,Left Corner 3,Left Side(L),33,17,0.5152,1041,434,0.4169,0.0983
+1627750,Jamal Murray,Jamal,Murray,2022-23,Mid-Range,Center(C),31,9,0.2903,1100,486,0.4418,-0.1515
+1627750,Jamal Murray,Jamal,Murray,2022-23,Mid-Range,Left Side Center(LC),59,23,0.3898,723,292,0.4039,-0.0141
+1627750,Jamal Murray,Jamal,Murray,2022-23,Mid-Range,Left Side(L),68,35,0.5147,1305,551,0.4222,0.0925
+1627750,Jamal Murray,Jamal,Murray,2022-23,Mid-Range,Right Side Center(RC),36,16,0.4444,814,388,0.4767,-0.0323
+1627750,Jamal Murray,Jamal,Murray,2022-23,Mid-Range,Right Side(R),37,12,0.3243,1287,585,0.4545,-0.1302
+1627750,Jamal Murray,Jamal,Murray,2022-23,Restricted Area,Center(C),208,136,0.6538,9615,6601,0.6865,-0.0327
+1627750,Jamal Murray,Jamal,Murray,2022-23,Right Corner 3,Right Side(R),22,11,0.5,991,399,0.4026,0.0974
+1627750,Jamal Murray,Jamal,Murray,2023-24,Above the Break 3,Center(C),101,42,0.4158,3110,1144,0.3678,0.048
+1627750,Jamal Murray,Jamal,Murray,2023-24,Above the Break 3,Left Side Center(LC),120,55,0.4583,4149,1558,0.3755,0.0828
+1627750,Jamal Murray,Jamal,Murray,2023-24,Above the Break 3,Right Side Center(RC),79,37,0.4684,3883,1445,0.3721,0.0963
+1627750,Jamal Murray,Jamal,Murray,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+1627750,Jamal Murray,Jamal,Murray,2023-24,In The Paint (Non-RA),Center(C),159,74,0.4654,6614,3028,0.4578,0.0076
+1627750,Jamal Murray,Jamal,Murray,2023-24,In The Paint (Non-RA),Left Side(L),13,4,0.3077,508,239,0.4705,-0.1628
+1627750,Jamal Murray,Jamal,Murray,2023-24,In The Paint (Non-RA),Right Side(R),12,4,0.3333,507,225,0.4438,-0.1105
+1627750,Jamal Murray,Jamal,Murray,2023-24,Left Corner 3,Left Side(L),24,9,0.375,1020,403,0.3951,-0.0201
+1627750,Jamal Murray,Jamal,Murray,2023-24,Mid-Range,Center(C),64,32,0.5,1403,647,0.4612,0.0388
+1627750,Jamal Murray,Jamal,Murray,2023-24,Mid-Range,Left Side Center(LC),51,26,0.5098,861,380,0.4413,0.0685
+1627750,Jamal Murray,Jamal,Murray,2023-24,Mid-Range,Left Side(L),66,30,0.4545,1539,668,0.434,0.0205
+1627750,Jamal Murray,Jamal,Murray,2023-24,Mid-Range,Right Side Center(RC),35,13,0.3714,935,389,0.416,-0.0446
+1627750,Jamal Murray,Jamal,Murray,2023-24,Mid-Range,Right Side(R),37,18,0.4865,1524,649,0.4259,0.0606
+1627750,Jamal Murray,Jamal,Murray,2023-24,Restricted Area,Center(C),208,128,0.6154,10307,7128,0.6916,-0.0762
+1627750,Jamal Murray,Jamal,Murray,2023-24,Right Corner 3,Right Side(R),15,2,0.1333,957,403,0.4211,-0.2878
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Above the Break 3,Center(C),132,46,0.3485,2263,800,0.3535,-0.005
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Above the Break 3,Left Side Center(LC),234,87,0.3718,3059,1095,0.358,0.0138
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Above the Break 3,Right Side Center(RC),199,65,0.3266,2983,1082,0.3627,-0.0361
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,In The Paint (Non-RA),Center(C),199,79,0.397,5208,2296,0.4409,-0.0439
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,In The Paint (Non-RA),Left Side(L),19,10,0.5263,379,185,0.4881,0.0382
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,In The Paint (Non-RA),Right Side(R),13,4,0.3077,384,151,0.3932,-0.0855
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Left Corner 3,Left Side(L),51,15,0.2941,979,384,0.3922,-0.0981
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Mid-Range,Center(C),56,26,0.4643,1048,479,0.4571,0.0072
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Mid-Range,Left Side Center(LC),30,10,0.3333,621,253,0.4074,-0.0741
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Mid-Range,Left Side(L),56,20,0.3571,1331,531,0.3989,-0.0418
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Mid-Range,Right Side Center(RC),43,15,0.3488,662,277,0.4184,-0.0696
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Mid-Range,Right Side(R),72,24,0.3333,1244,553,0.4445,-0.1112
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Restricted Area,Center(C),425,289,0.68,7951,5372,0.6756,0.0044
+1628369,Jayson Tatum,Jayson,Tatum,2021-22,Right Corner 3,Right Side(R),33,18,0.5455,937,380,0.4055,0.14
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Above the Break 3,Center(C),188,54,0.2872,2478,863,0.3483,-0.0611
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Above the Break 3,Left Side Center(LC),252,88,0.3492,3403,1285,0.3776,-0.0284
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Above the Break 3,Right Side Center(RC),186,69,0.371,3418,1282,0.3751,-0.0041
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,In The Paint (Non-RA),Center(C),240,100,0.4167,6180,2799,0.4529,-0.0362
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,In The Paint (Non-RA),Left Side(L),10,5,0.5,420,203,0.4833,0.0167
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,In The Paint (Non-RA),Right Side(R),17,9,0.5294,466,222,0.4764,0.053
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Left Corner 3,Left Side(L),32,15,0.4688,1041,434,0.4169,0.0519
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Mid-Range,Center(C),21,8,0.381,1100,486,0.4418,-0.0608
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Mid-Range,Left Side Center(LC),26,8,0.3077,723,292,0.4039,-0.0962
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Mid-Range,Left Side(L),37,11,0.2973,1305,551,0.4222,-0.1249
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Mid-Range,Right Side Center(RC),34,16,0.4706,814,388,0.4767,-0.0061
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Mid-Range,Right Side(R),34,14,0.4118,1287,585,0.4545,-0.0427
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Restricted Area,Center(C),455,317,0.6967,9615,6601,0.6865,0.0102
+1628369,Jayson Tatum,Jayson,Tatum,2022-23,Right Corner 3,Right Side(R),27,13,0.4815,991,399,0.4026,0.0789
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Above the Break 3,Center(C),156,70,0.4487,3110,1144,0.3678,0.0809
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Above the Break 3,Left Side Center(LC),231,98,0.4242,4149,1558,0.3755,0.0487
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Above the Break 3,Right Side Center(RC),180,47,0.2611,3883,1445,0.3721,-0.111
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,In The Paint (Non-RA),Center(C),156,57,0.3654,6614,3028,0.4578,-0.0924
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,In The Paint (Non-RA),Left Side(L),14,6,0.4286,508,239,0.4705,-0.0419
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,In The Paint (Non-RA),Right Side(R),12,5,0.4167,507,225,0.4438,-0.0271
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Left Corner 3,Left Side(L),22,7,0.3182,1020,403,0.3951,-0.0769
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Mid-Range,Center(C),28,12,0.4286,1403,647,0.4612,-0.0326
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Mid-Range,Left Side Center(LC),38,15,0.3947,861,380,0.4413,-0.0466
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Mid-Range,Left Side(L),67,34,0.5075,1539,668,0.434,0.0735
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Mid-Range,Right Side Center(RC),36,11,0.3056,935,389,0.416,-0.1104
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Mid-Range,Right Side(R),68,20,0.2941,1524,649,0.4259,-0.1318
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Restricted Area,Center(C),398,283,0.7111,10307,7128,0.6916,0.0195
+1628369,Jayson Tatum,Jayson,Tatum,2023-24,Right Corner 3,Right Side(R),20,7,0.35,957,403,0.4211,-0.0711
+203954,Joel Embiid,Joel,Embiid,2021-22,Above the Break 3,Center(C),97,34,0.3505,2263,800,0.3535,-0.003
+203954,Joel Embiid,Joel,Embiid,2021-22,Above the Break 3,Left Side Center(LC),84,34,0.4048,3059,1095,0.358,0.0468
+203954,Joel Embiid,Joel,Embiid,2021-22,Above the Break 3,Right Side Center(RC),56,21,0.375,2983,1082,0.3627,0.0123
+203954,Joel Embiid,Joel,Embiid,2021-22,Backcourt,Back Court(BC),1,0,0.0,49,1,0.0204,-0.0204
+203954,Joel Embiid,Joel,Embiid,2021-22,In The Paint (Non-RA),Center(C),267,111,0.4157,5208,2296,0.4409,-0.0252
+203954,Joel Embiid,Joel,Embiid,2021-22,In The Paint (Non-RA),Left Side(L),22,7,0.3182,379,185,0.4881,-0.1699
+203954,Joel Embiid,Joel,Embiid,2021-22,In The Paint (Non-RA),Right Side(R),14,4,0.2857,384,151,0.3932,-0.1075
+203954,Joel Embiid,Joel,Embiid,2021-22,Left Corner 3,Left Side(L),7,2,0.2857,979,384,0.3922,-0.1065
+203954,Joel Embiid,Joel,Embiid,2021-22,Mid-Range,Center(C),111,53,0.4775,1048,479,0.4571,0.0204
+203954,Joel Embiid,Joel,Embiid,2021-22,Mid-Range,Left Side Center(LC),49,26,0.5306,621,253,0.4074,0.1232
+203954,Joel Embiid,Joel,Embiid,2021-22,Mid-Range,Left Side(L),150,60,0.4,1331,531,0.3989,0.0011
+203954,Joel Embiid,Joel,Embiid,2021-22,Mid-Range,Right Side Center(RC),20,7,0.35,662,277,0.4184,-0.0684
+203954,Joel Embiid,Joel,Embiid,2021-22,Mid-Range,Right Side(R),61,19,0.3115,1244,553,0.4445,-0.133
+203954,Joel Embiid,Joel,Embiid,2021-22,Restricted Area,Center(C),389,286,0.7352,7951,5372,0.6756,0.0596
+203954,Joel Embiid,Joel,Embiid,2021-22,Right Corner 3,Right Side(R),6,2,0.3333,937,380,0.4055,-0.0722
+203954,Joel Embiid,Joel,Embiid,2022-23,Above the Break 3,Back Court(BC),1,0,0.0,3,0,0.0,0.0
+203954,Joel Embiid,Joel,Embiid,2022-23,Above the Break 3,Center(C),78,29,0.3718,2478,863,0.3483,0.0235
+203954,Joel Embiid,Joel,Embiid,2022-23,Above the Break 3,Left Side Center(LC),61,17,0.2787,3403,1285,0.3776,-0.0989
+203954,Joel Embiid,Joel,Embiid,2022-23,Above the Break 3,Right Side Center(RC),48,18,0.375,3418,1282,0.3751,-0.0001
+203954,Joel Embiid,Joel,Embiid,2022-23,Backcourt,Back Court(BC),4,0,0.0,67,2,0.0299,-0.0299
+203954,Joel Embiid,Joel,Embiid,2022-23,In The Paint (Non-RA),Center(C),315,151,0.4794,6180,2799,0.4529,0.0265
+203954,Joel Embiid,Joel,Embiid,2022-23,In The Paint (Non-RA),Left Side(L),23,13,0.5652,420,203,0.4833,0.0819
+203954,Joel Embiid,Joel,Embiid,2022-23,In The Paint (Non-RA),Right Side(R),17,10,0.5882,466,222,0.4764,0.1118
+203954,Joel Embiid,Joel,Embiid,2022-23,Left Corner 3,Left Side(L),6,2,0.3333,1041,434,0.4169,-0.0836
+203954,Joel Embiid,Joel,Embiid,2022-23,Mid-Range,Center(C),142,71,0.5,1100,486,0.4418,0.0582
+203954,Joel Embiid,Joel,Embiid,2022-23,Mid-Range,Left Side Center(LC),54,25,0.463,723,292,0.4039,0.0591
+203954,Joel Embiid,Joel,Embiid,2022-23,Mid-Range,Left Side(L),74,33,0.4459,1305,551,0.4222,0.0237
+203954,Joel Embiid,Joel,Embiid,2022-23,Mid-Range,Right Side Center(RC),28,18,0.6429,814,388,0.4767,0.1662
+203954,Joel Embiid,Joel,Embiid,2022-23,Mid-Range,Right Side(R),53,24,0.4528,1287,585,0.4545,-0.0017
+203954,Joel Embiid,Joel,Embiid,2022-23,Restricted Area,Center(C),422,317,0.7512,9615,6601,0.6865,0.0647
+203954,Joel Embiid,Joel,Embiid,2022-23,Right Corner 3,Right Side(R),2,0,0.0,991,399,0.4026,-0.4026
+203954,Joel Embiid,Joel,Embiid,2023-24,Above the Break 3,Center(C),70,26,0.3714,3110,1144,0.3678,0.0036
+203954,Joel Embiid,Joel,Embiid,2023-24,Above the Break 3,Left Side Center(LC),36,15,0.4167,4149,1558,0.3755,0.0412
+203954,Joel Embiid,Joel,Embiid,2023-24,Above the Break 3,Right Side Center(RC),24,9,0.375,3883,1445,0.3721,0.0029
+203954,Joel Embiid,Joel,Embiid,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+203954,Joel Embiid,Joel,Embiid,2023-24,In The Paint (Non-RA),Center(C),184,94,0.5109,6614,3028,0.4578,0.0531
+203954,Joel Embiid,Joel,Embiid,2023-24,In The Paint (Non-RA),Left Side(L),11,2,0.1818,508,239,0.4705,-0.2887
+203954,Joel Embiid,Joel,Embiid,2023-24,In The Paint (Non-RA),Right Side(R),16,5,0.3125,507,225,0.4438,-0.1313
+203954,Joel Embiid,Joel,Embiid,2023-24,Left Corner 3,Left Side(L),4,2,0.5,1020,403,0.3951,0.1049
+203954,Joel Embiid,Joel,Embiid,2023-24,Mid-Range,Center(C),116,65,0.5603,1403,647,0.4612,0.0991
+203954,Joel Embiid,Joel,Embiid,2023-24,Mid-Range,Left Side Center(LC),36,22,0.6111,861,380,0.4413,0.1698
+203954,Joel Embiid,Joel,Embiid,2023-24,Mid-Range,Left Side(L),36,13,0.3611,1539,668,0.434,-0.0729
+203954,Joel Embiid,Joel,Embiid,2023-24,Mid-Range,Right Side Center(RC),29,6,0.2069,935,389,0.416,-0.2091
+203954,Joel Embiid,Joel,Embiid,2023-24,Mid-Range,Right Side(R),38,17,0.4474,1524,649,0.4259,0.0215
+203954,Joel Embiid,Joel,Embiid,2023-24,Restricted Area,Center(C),246,172,0.6992,10307,7128,0.6916,0.0076
+203954,Joel Embiid,Joel,Embiid,2023-24,Right Corner 3,Right Side(R),3,2,0.6667,957,403,0.4211,0.2456
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Above the Break 3,Center(C),63,24,0.381,2478,863,0.3483,0.0327
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Above the Break 3,Left Side Center(LC),54,19,0.3519,3403,1285,0.3776,-0.0257
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Above the Break 3,Right Side Center(RC),82,35,0.4268,3418,1282,0.3751,0.0517
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,In The Paint (Non-RA),Center(C),178,94,0.5281,6180,2799,0.4529,0.0752
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,In The Paint (Non-RA),Left Side(L),13,7,0.5385,420,203,0.4833,0.0552
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,In The Paint (Non-RA),Right Side(R),18,12,0.6667,466,222,0.4764,0.1903
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Left Corner 3,Left Side(L),27,16,0.5926,1041,434,0.4169,0.1757
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Mid-Range,Center(C),49,24,0.4898,1100,486,0.4418,0.048
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Mid-Range,Left Side Center(LC),31,14,0.4516,723,292,0.4039,0.0477
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Mid-Range,Left Side(L),36,17,0.4722,1305,551,0.4222,0.05
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Mid-Range,Right Side Center(RC),64,32,0.5,814,388,0.4767,0.0233
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Mid-Range,Right Side(R),80,41,0.5125,1287,585,0.4545,0.058
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Restricted Area,Center(C),152,101,0.6645,9615,6601,0.6865,-0.022
+202695,Kawhi Leonard,Kawhi,Leonard,2022-23,Right Corner 3,Right Side(R),22,10,0.4545,991,399,0.4026,0.0519
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Above the Break 3,Center(C),79,31,0.3924,3110,1144,0.3678,0.0246
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Above the Break 3,Left Side Center(LC),80,33,0.4125,4149,1558,0.3755,0.037
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Above the Break 3,Right Side Center(RC),108,46,0.4259,3883,1445,0.3721,0.0538
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,In The Paint (Non-RA),Center(C),265,153,0.5774,6614,3028,0.4578,0.1196
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,In The Paint (Non-RA),Left Side(L),17,10,0.5882,508,239,0.4705,0.1177
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,In The Paint (Non-RA),Right Side(R),35,16,0.4571,507,225,0.4438,0.0133
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Left Corner 3,Left Side(L),38,16,0.4211,1020,403,0.3951,0.026
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Mid-Range,Center(C),53,26,0.4906,1403,647,0.4612,0.0294
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Mid-Range,Left Side Center(LC),22,8,0.3636,861,380,0.4413,-0.0777
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Mid-Range,Left Side(L),51,21,0.4118,1539,668,0.434,-0.0222
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Mid-Range,Right Side Center(RC),45,18,0.4,935,389,0.416,-0.016
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Mid-Range,Right Side(R),94,38,0.4043,1524,649,0.4259,-0.0216
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Restricted Area,Center(C),244,180,0.7377,10307,7128,0.6916,0.0461
+202695,Kawhi Leonard,Kawhi,Leonard,2023-24,Right Corner 3,Right Side(R),31,14,0.4516,957,403,0.4211,0.0305
+201142,Kevin Durant,Kevin,Durant,2021-22,Above the Break 3,Center(C),112,39,0.3482,2263,800,0.3535,-0.0053
+201142,Kevin Durant,Kevin,Durant,2021-22,Above the Break 3,Left Side Center(LC),66,25,0.3788,3059,1095,0.358,0.0208
+201142,Kevin Durant,Kevin,Durant,2021-22,Above the Break 3,Right Side Center(RC),99,38,0.3838,2983,1082,0.3627,0.0211
+201142,Kevin Durant,Kevin,Durant,2021-22,In The Paint (Non-RA),Center(C),205,110,0.5366,5208,2296,0.4409,0.0957
+201142,Kevin Durant,Kevin,Durant,2021-22,In The Paint (Non-RA),Left Side(L),29,18,0.6207,379,185,0.4881,0.1326
+201142,Kevin Durant,Kevin,Durant,2021-22,In The Paint (Non-RA),Right Side(R),42,14,0.3333,384,151,0.3932,-0.0599
+201142,Kevin Durant,Kevin,Durant,2021-22,Left Corner 3,Left Side(L),7,3,0.4286,979,384,0.3922,0.0364
+201142,Kevin Durant,Kevin,Durant,2021-22,Mid-Range,Center(C),71,43,0.6056,1048,479,0.4571,0.1485
+201142,Kevin Durant,Kevin,Durant,2021-22,Mid-Range,Left Side Center(LC),28,13,0.4643,621,253,0.4074,0.0569
+201142,Kevin Durant,Kevin,Durant,2021-22,Mid-Range,Left Side(L),87,39,0.4483,1331,531,0.3989,0.0494
+201142,Kevin Durant,Kevin,Durant,2021-22,Mid-Range,Right Side Center(RC),76,47,0.6184,662,277,0.4184,0.2
+201142,Kevin Durant,Kevin,Durant,2021-22,Mid-Range,Right Side(R),145,84,0.5793,1244,553,0.4445,0.1348
+201142,Kevin Durant,Kevin,Durant,2021-22,Restricted Area,Center(C),132,95,0.7197,7951,5372,0.6756,0.0441
+201142,Kevin Durant,Kevin,Durant,2021-22,Right Corner 3,Right Side(R),16,10,0.625,937,380,0.4055,0.2195
+201142,Kevin Durant,Kevin,Durant,2022-23,Above the Break 3,Center(C),77,21,0.2727,2478,863,0.3483,-0.0756
+201142,Kevin Durant,Kevin,Durant,2022-23,Above the Break 3,Left Side Center(LC),62,28,0.4516,3403,1285,0.3776,0.074
+201142,Kevin Durant,Kevin,Durant,2022-23,Above the Break 3,Right Side Center(RC),73,34,0.4658,3418,1282,0.3751,0.0907
+201142,Kevin Durant,Kevin,Durant,2022-23,In The Paint (Non-RA),Center(C),144,88,0.6111,6180,2799,0.4529,0.1582
+201142,Kevin Durant,Kevin,Durant,2022-23,In The Paint (Non-RA),Left Side(L),27,17,0.6296,420,203,0.4833,0.1463
+201142,Kevin Durant,Kevin,Durant,2022-23,In The Paint (Non-RA),Right Side(R),29,19,0.6552,466,222,0.4764,0.1788
+201142,Kevin Durant,Kevin,Durant,2022-23,Left Corner 3,Left Side(L),9,6,0.6667,1041,434,0.4169,0.2498
+201142,Kevin Durant,Kevin,Durant,2022-23,Mid-Range,Center(C),58,32,0.5517,1100,486,0.4418,0.1099
+201142,Kevin Durant,Kevin,Durant,2022-23,Mid-Range,Left Side Center(LC),26,13,0.5,723,292,0.4039,0.0961
+201142,Kevin Durant,Kevin,Durant,2022-23,Mid-Range,Left Side(L),93,51,0.5484,1305,551,0.4222,0.1262
+201142,Kevin Durant,Kevin,Durant,2022-23,Mid-Range,Right Side Center(RC),55,30,0.5455,814,388,0.4767,0.0688
+201142,Kevin Durant,Kevin,Durant,2022-23,Mid-Range,Right Side(R),95,57,0.6,1287,585,0.4545,0.1455
+201142,Kevin Durant,Kevin,Durant,2022-23,Restricted Area,Center(C),105,83,0.7905,9615,6601,0.6865,0.104
+201142,Kevin Durant,Kevin,Durant,2022-23,Right Corner 3,Right Side(R),9,4,0.4444,991,399,0.4026,0.0418
+201142,Kevin Durant,Kevin,Durant,2023-24,Above the Break 3,Center(C),106,43,0.4057,3110,1144,0.3678,0.0379
+201142,Kevin Durant,Kevin,Durant,2023-24,Above the Break 3,Left Side Center(LC),111,49,0.4414,4149,1558,0.3755,0.0659
+201142,Kevin Durant,Kevin,Durant,2023-24,Above the Break 3,Right Side Center(RC),122,44,0.3607,3883,1445,0.3721,-0.0114
+201142,Kevin Durant,Kevin,Durant,2023-24,In The Paint (Non-RA),Center(C),255,133,0.5216,6614,3028,0.4578,0.0638
+201142,Kevin Durant,Kevin,Durant,2023-24,In The Paint (Non-RA),Left Side(L),38,17,0.4474,508,239,0.4705,-0.0231
+201142,Kevin Durant,Kevin,Durant,2023-24,In The Paint (Non-RA),Right Side(R),34,14,0.4118,507,225,0.4438,-0.032
+201142,Kevin Durant,Kevin,Durant,2023-24,Left Corner 3,Left Side(L),34,17,0.5,1020,403,0.3951,0.1049
+201142,Kevin Durant,Kevin,Durant,2023-24,Mid-Range,Center(C),96,47,0.4896,1403,647,0.4612,0.0284
+201142,Kevin Durant,Kevin,Durant,2023-24,Mid-Range,Left Side Center(LC),58,30,0.5172,861,380,0.4413,0.0759
+201142,Kevin Durant,Kevin,Durant,2023-24,Mid-Range,Left Side(L),124,69,0.5565,1539,668,0.434,0.1225
+201142,Kevin Durant,Kevin,Durant,2023-24,Mid-Range,Right Side Center(RC),72,41,0.5694,935,389,0.416,0.1534
+201142,Kevin Durant,Kevin,Durant,2023-24,Mid-Range,Right Side(R),135,64,0.4741,1524,649,0.4259,0.0482
+201142,Kevin Durant,Kevin,Durant,2023-24,Restricted Area,Center(C),217,168,0.7742,10307,7128,0.6916,0.0826
+201142,Kevin Durant,Kevin,Durant,2023-24,Right Corner 3,Right Side(R),34,15,0.4412,957,403,0.4211,0.0201
+202691,Klay Thompson,Klay,Thompson,2021-22,Above the Break 3,Center(C),47,22,0.4681,2263,800,0.3535,0.1146
+202691,Klay Thompson,Klay,Thompson,2021-22,Above the Break 3,Left Side Center(LC),83,31,0.3735,3059,1095,0.358,0.0155
+202691,Klay Thompson,Klay,Thompson,2021-22,Above the Break 3,Right Side Center(RC),112,42,0.375,2983,1082,0.3627,0.0123
+202691,Klay Thompson,Klay,Thompson,2021-22,Backcourt,Back Court(BC),1,0,0.0,49,1,0.0204,-0.0204
+202691,Klay Thompson,Klay,Thompson,2021-22,In The Paint (Non-RA),Center(C),74,31,0.4189,5208,2296,0.4409,-0.022
+202691,Klay Thompson,Klay,Thompson,2021-22,In The Paint (Non-RA),Left Side(L),7,2,0.2857,379,185,0.4881,-0.2024
+202691,Klay Thompson,Klay,Thompson,2021-22,In The Paint (Non-RA),Right Side(R),3,0,0.0,384,151,0.3932,-0.3932
+202691,Klay Thompson,Klay,Thompson,2021-22,Left Corner 3,Left Side(L),23,13,0.5652,979,384,0.3922,0.173
+202691,Klay Thompson,Klay,Thompson,2021-22,Mid-Range,Center(C),24,11,0.4583,1048,479,0.4571,0.0012
+202691,Klay Thompson,Klay,Thompson,2021-22,Mid-Range,Left Side Center(LC),16,10,0.625,621,253,0.4074,0.2176
+202691,Klay Thompson,Klay,Thompson,2021-22,Mid-Range,Left Side(L),42,18,0.4286,1331,531,0.3989,0.0297
+202691,Klay Thompson,Klay,Thompson,2021-22,Mid-Range,Right Side Center(RC),17,6,0.3529,662,277,0.4184,-0.0655
+202691,Klay Thompson,Klay,Thompson,2021-22,Mid-Range,Right Side(R),45,18,0.4,1244,553,0.4445,-0.0445
+202691,Klay Thompson,Klay,Thompson,2021-22,Restricted Area,Center(C),51,37,0.7255,7951,5372,0.6756,0.0499
+202691,Klay Thompson,Klay,Thompson,2021-22,Right Corner 3,Right Side(R),28,5,0.1786,937,380,0.4055,-0.2269
+202691,Klay Thompson,Klay,Thompson,2022-23,Above the Break 3,Center(C),80,28,0.35,2478,863,0.3483,0.0017
+202691,Klay Thompson,Klay,Thompson,2022-23,Above the Break 3,Left Side Center(LC),213,89,0.4178,3403,1285,0.3776,0.0402
+202691,Klay Thompson,Klay,Thompson,2022-23,Above the Break 3,Right Side Center(RC),306,131,0.4281,3418,1282,0.3751,0.053
+202691,Klay Thompson,Klay,Thompson,2022-23,In The Paint (Non-RA),Center(C),145,65,0.4483,6180,2799,0.4529,-0.0046
+202691,Klay Thompson,Klay,Thompson,2022-23,In The Paint (Non-RA),Left Side(L),8,3,0.375,420,203,0.4833,-0.1083
+202691,Klay Thompson,Klay,Thompson,2022-23,In The Paint (Non-RA),Right Side(R),5,2,0.4,466,222,0.4764,-0.0764
+202691,Klay Thompson,Klay,Thompson,2022-23,Left Corner 3,Left Side(L),62,22,0.3548,1041,434,0.4169,-0.0621
+202691,Klay Thompson,Klay,Thompson,2022-23,Mid-Range,Center(C),40,17,0.425,1100,486,0.4418,-0.0168
+202691,Klay Thompson,Klay,Thompson,2022-23,Mid-Range,Left Side Center(LC),29,10,0.3448,723,292,0.4039,-0.0591
+202691,Klay Thompson,Klay,Thompson,2022-23,Mid-Range,Left Side(L),70,29,0.4143,1305,551,0.4222,-0.0079
+202691,Klay Thompson,Klay,Thompson,2022-23,Mid-Range,Right Side Center(RC),42,21,0.5,814,388,0.4767,0.0233
+202691,Klay Thompson,Klay,Thompson,2022-23,Mid-Range,Right Side(R),75,28,0.3733,1287,585,0.4545,-0.0812
+202691,Klay Thompson,Klay,Thompson,2022-23,Restricted Area,Center(C),108,70,0.6481,9615,6601,0.6865,-0.0384
+202691,Klay Thompson,Klay,Thompson,2022-23,Right Corner 3,Right Side(R),69,31,0.4493,991,399,0.4026,0.0467
+202691,Klay Thompson,Klay,Thompson,2023-24,Above the Break 3,Center(C),105,42,0.4,3110,1144,0.3678,0.0322
+202691,Klay Thompson,Klay,Thompson,2023-24,Above the Break 3,Left Side Center(LC),212,87,0.4104,4149,1558,0.3755,0.0349
+202691,Klay Thompson,Klay,Thompson,2023-24,Above the Break 3,Right Side Center(RC),280,102,0.3643,3883,1445,0.3721,-0.0078
+202691,Klay Thompson,Klay,Thompson,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+202691,Klay Thompson,Klay,Thompson,2023-24,In The Paint (Non-RA),Center(C),111,42,0.3784,6614,3028,0.4578,-0.0794
+202691,Klay Thompson,Klay,Thompson,2023-24,In The Paint (Non-RA),Left Side(L),2,2,1.0,508,239,0.4705,0.5295
+202691,Klay Thompson,Klay,Thompson,2023-24,In The Paint (Non-RA),Right Side(R),6,5,0.8333,507,225,0.4438,0.3895
+202691,Klay Thompson,Klay,Thompson,2023-24,Left Corner 3,Left Side(L),46,14,0.3043,1020,403,0.3951,-0.0908
+202691,Klay Thompson,Klay,Thompson,2023-24,Mid-Range,Center(C),40,22,0.55,1403,647,0.4612,0.0888
+202691,Klay Thompson,Klay,Thompson,2023-24,Mid-Range,Left Side Center(LC),26,11,0.4231,861,380,0.4413,-0.0182
+202691,Klay Thompson,Klay,Thompson,2023-24,Mid-Range,Left Side(L),55,24,0.4364,1539,668,0.434,0.0024
+202691,Klay Thompson,Klay,Thompson,2023-24,Mid-Range,Right Side Center(RC),47,18,0.383,935,389,0.416,-0.033
+202691,Klay Thompson,Klay,Thompson,2023-24,Mid-Range,Right Side(R),62,28,0.4516,1524,649,0.4259,0.0257
+202691,Klay Thompson,Klay,Thompson,2023-24,Restricted Area,Center(C),93,70,0.7527,10307,7128,0.6916,0.0611
+202691,Klay Thompson,Klay,Thompson,2023-24,Right Corner 3,Right Side(R),46,23,0.5,957,403,0.4211,0.0789
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Above the Break 3,Back Court(BC),1,0,0.0,1,0,0.0,0.0
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Above the Break 3,Center(C),127,50,0.3937,2263,800,0.3535,0.0402
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Above the Break 3,Left Side Center(LC),203,66,0.3251,3059,1095,0.358,-0.0329
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Above the Break 3,Right Side Center(RC),142,66,0.4648,2983,1082,0.3627,0.1021
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,In The Paint (Non-RA),Center(C),211,84,0.3981,5208,2296,0.4409,-0.0428
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,In The Paint (Non-RA),Left Side(L),16,5,0.3125,379,185,0.4881,-0.1756
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,In The Paint (Non-RA),Right Side(R),14,9,0.6429,384,151,0.3932,0.2497
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Left Corner 3,Left Side(L),47,19,0.4043,979,384,0.3922,0.0121
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Mid-Range,Center(C),33,14,0.4242,1048,479,0.4571,-0.0329
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Mid-Range,Left Side Center(LC),28,9,0.3214,621,253,0.4074,-0.086
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Mid-Range,Left Side(L),24,10,0.4167,1331,531,0.3989,0.0178
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Mid-Range,Right Side Center(RC),21,7,0.3333,662,277,0.4184,-0.0851
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Mid-Range,Right Side(R),27,10,0.3704,1244,553,0.4445,-0.0741
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Restricted Area,Center(C),315,170,0.5397,7951,5372,0.6756,-0.1359
+1630163,LaMelo Ball,LaMelo,Ball,2021-22,Right Corner 3,Right Side(R),43,19,0.4419,937,380,0.4055,0.0364
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Above the Break 3,Center(C),80,34,0.425,2478,863,0.3483,0.0767
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Above the Break 3,Left Side Center(LC),138,55,0.3986,3403,1285,0.3776,0.021
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Above the Break 3,Right Side Center(RC),108,35,0.3241,3418,1282,0.3751,-0.051
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,In The Paint (Non-RA),Center(C),103,37,0.3592,6180,2799,0.4529,-0.0937
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,In The Paint (Non-RA),Left Side(L),3,0,0.0,420,203,0.4833,-0.4833
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,In The Paint (Non-RA),Right Side(R),9,1,0.1111,466,222,0.4764,-0.3653
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Left Corner 3,Left Side(L),33,14,0.4242,1041,434,0.4169,0.0073
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Mid-Range,Center(C),15,9,0.6,1100,486,0.4418,0.1582
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Mid-Range,Left Side Center(LC),15,4,0.2667,723,292,0.4039,-0.1372
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Mid-Range,Left Side(L),10,4,0.4,1305,551,0.4222,-0.0222
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Mid-Range,Right Side Center(RC),12,6,0.5,814,388,0.4767,0.0233
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Mid-Range,Right Side(R),21,10,0.4762,1287,585,0.4545,0.0217
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Restricted Area,Center(C),150,81,0.54,9615,6601,0.6865,-0.1465
+1630163,LaMelo Ball,LaMelo,Ball,2022-23,Right Corner 3,Right Side(R),22,6,0.2727,991,399,0.4026,-0.1299
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Above the Break 3,Center(C),45,13,0.2889,3110,1144,0.3678,-0.0789
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Above the Break 3,Left Side Center(LC),72,22,0.3056,4149,1558,0.3755,-0.0699
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Above the Break 3,Right Side Center(RC),48,19,0.3958,3883,1445,0.3721,0.0237
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,In The Paint (Non-RA),Center(C),83,42,0.506,6614,3028,0.4578,0.0482
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,In The Paint (Non-RA),Left Side(L),4,2,0.5,508,239,0.4705,0.0295
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,In The Paint (Non-RA),Right Side(R),5,0,0.0,507,225,0.4438,-0.4438
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Left Corner 3,Left Side(L),22,9,0.4091,1020,403,0.3951,0.014
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Mid-Range,Center(C),4,2,0.5,1403,647,0.4612,0.0388
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Mid-Range,Left Side(L),3,0,0.0,1539,668,0.434,-0.434
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Mid-Range,Right Side Center(RC),6,1,0.1667,935,389,0.416,-0.2493
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Mid-Range,Right Side(R),5,1,0.2,1524,649,0.4259,-0.2259
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Restricted Area,Center(C),116,65,0.5603,10307,7128,0.6916,-0.1313
+1630163,LaMelo Ball,LaMelo,Ball,2023-24,Right Corner 3,Right Side(R),10,7,0.7,957,403,0.4211,0.2789
+2544,LeBron James,LeBron,James,2021-22,Above the Break 3,Center(C),113,39,0.3451,2263,800,0.3535,-0.0084
+2544,LeBron James,LeBron,James,2021-22,Above the Break 3,Left Side Center(LC),180,68,0.3778,3059,1095,0.358,0.0198
+2544,LeBron James,LeBron,James,2021-22,Above the Break 3,Right Side Center(RC),119,43,0.3613,2983,1082,0.3627,-0.0014
+2544,LeBron James,LeBron,James,2021-22,In The Paint (Non-RA),Center(C),99,35,0.3535,5208,2296,0.4409,-0.0874
+2544,LeBron James,LeBron,James,2021-22,In The Paint (Non-RA),Left Side(L),5,3,0.6,379,185,0.4881,0.1119
+2544,LeBron James,LeBron,James,2021-22,In The Paint (Non-RA),Right Side(R),4,1,0.25,384,151,0.3932,-0.1432
+2544,LeBron James,LeBron,James,2021-22,Left Corner 3,Left Side(L),15,6,0.4,979,384,0.3922,0.0078
+2544,LeBron James,LeBron,James,2021-22,Mid-Range,Center(C),27,9,0.3333,1048,479,0.4571,-0.1238
+2544,LeBron James,LeBron,James,2021-22,Mid-Range,Left Side Center(LC),28,14,0.5,621,253,0.4074,0.0926
+2544,LeBron James,LeBron,James,2021-22,Mid-Range,Left Side(L),66,28,0.4242,1331,531,0.3989,0.0253
+2544,LeBron James,LeBron,James,2021-22,Mid-Range,Right Side Center(RC),25,12,0.48,662,277,0.4184,0.0616
+2544,LeBron James,LeBron,James,2021-22,Mid-Range,Right Side(R),38,15,0.3947,1244,553,0.4445,-0.0498
+2544,LeBron James,LeBron,James,2021-22,Restricted Area,Center(C),481,362,0.7526,7951,5372,0.6756,0.077
+2544,LeBron James,LeBron,James,2021-22,Right Corner 3,Right Side(R),21,5,0.2381,937,380,0.4055,-0.1674
+2544,LeBron James,LeBron,James,2022-23,Above the Break 3,Center(C),131,42,0.3206,2478,863,0.3483,-0.0277
+2544,LeBron James,LeBron,James,2022-23,Above the Break 3,Left Side Center(LC),126,35,0.2778,3403,1285,0.3776,-0.0998
+2544,LeBron James,LeBron,James,2022-23,Above the Break 3,Right Side Center(RC),87,32,0.3678,3418,1282,0.3751,-0.0073
+2544,LeBron James,LeBron,James,2022-23,In The Paint (Non-RA),Center(C),159,65,0.4088,6180,2799,0.4529,-0.0441
+2544,LeBron James,LeBron,James,2022-23,In The Paint (Non-RA),Left Side(L),7,3,0.4286,420,203,0.4833,-0.0547
+2544,LeBron James,LeBron,James,2022-23,In The Paint (Non-RA),Right Side(R),8,4,0.5,466,222,0.4764,0.0236
+2544,LeBron James,LeBron,James,2022-23,Left Corner 3,Left Side(L),13,3,0.2308,1041,434,0.4169,-0.1861
+2544,LeBron James,LeBron,James,2022-23,Mid-Range,Center(C),38,14,0.3684,1100,486,0.4418,-0.0734
+2544,LeBron James,LeBron,James,2022-23,Mid-Range,Left Side Center(LC),35,19,0.5429,723,292,0.4039,0.139
+2544,LeBron James,LeBron,James,2022-23,Mid-Range,Left Side(L),66,18,0.2727,1305,551,0.4222,-0.1495
+2544,LeBron James,LeBron,James,2022-23,Mid-Range,Right Side Center(RC),27,11,0.4074,814,388,0.4767,-0.0693
+2544,LeBron James,LeBron,James,2022-23,Mid-Range,Right Side(R),43,14,0.3256,1287,585,0.4545,-0.1289
+2544,LeBron James,LeBron,James,2022-23,Restricted Area,Center(C),460,342,0.7435,9615,6601,0.6865,0.057
+2544,LeBron James,LeBron,James,2022-23,Right Corner 3,Right Side(R),19,7,0.3684,991,399,0.4026,-0.0342
+2544,LeBron James,LeBron,James,2023-24,Above the Break 3,Center(C),91,34,0.3736,3110,1144,0.3678,0.0058
+2544,LeBron James,LeBron,James,2023-24,Above the Break 3,Left Side Center(LC),148,65,0.4392,4149,1558,0.3755,0.0637
+2544,LeBron James,LeBron,James,2023-24,Above the Break 3,Right Side Center(RC),79,30,0.3797,3883,1445,0.3721,0.0076
+2544,LeBron James,LeBron,James,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+2544,LeBron James,LeBron,James,2023-24,In The Paint (Non-RA),Center(C),177,75,0.4237,6614,3028,0.4578,-0.0341
+2544,LeBron James,LeBron,James,2023-24,In The Paint (Non-RA),Left Side(L),13,4,0.3077,508,239,0.4705,-0.1628
+2544,LeBron James,LeBron,James,2023-24,In The Paint (Non-RA),Right Side(R),4,2,0.5,507,225,0.4438,0.0562
+2544,LeBron James,LeBron,James,2023-24,Left Corner 3,Left Side(L),21,7,0.3333,1020,403,0.3951,-0.0618
+2544,LeBron James,LeBron,James,2023-24,Mid-Range,Center(C),20,6,0.3,1403,647,0.4612,-0.1612
+2544,LeBron James,LeBron,James,2023-24,Mid-Range,Left Side Center(LC),28,10,0.3571,861,380,0.4413,-0.0842
+2544,LeBron James,LeBron,James,2023-24,Mid-Range,Left Side(L),73,20,0.274,1539,668,0.434,-0.16
+2544,LeBron James,LeBron,James,2023-24,Mid-Range,Right Side Center(RC),18,9,0.5,935,389,0.416,0.084
+2544,LeBron James,LeBron,James,2023-24,Mid-Range,Right Side(R),26,9,0.3462,1524,649,0.4259,-0.0797
+2544,LeBron James,LeBron,James,2023-24,Restricted Area,Center(C),547,401,0.7331,10307,7128,0.6916,0.0415
+2544,LeBron James,LeBron,James,2023-24,Right Corner 3,Right Side(R),23,13,0.5652,957,403,0.4211,0.1441
+203935,Marcus Smart,Marcus,Smart,2021-22,Above the Break 3,Center(C),50,16,0.32,2263,800,0.3535,-0.0335
+203935,Marcus Smart,Marcus,Smart,2021-22,Above the Break 3,Left Side Center(LC),103,32,0.3107,3059,1095,0.358,-0.0473
+203935,Marcus Smart,Marcus,Smart,2021-22,Above the Break 3,Right Side Center(RC),115,37,0.3217,2983,1082,0.3627,-0.041
+203935,Marcus Smart,Marcus,Smart,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+203935,Marcus Smart,Marcus,Smart,2021-22,In The Paint (Non-RA),Center(C),140,64,0.4571,5208,2296,0.4409,0.0162
+203935,Marcus Smart,Marcus,Smart,2021-22,In The Paint (Non-RA),Left Side(L),12,6,0.5,379,185,0.4881,0.0119
+203935,Marcus Smart,Marcus,Smart,2021-22,In The Paint (Non-RA),Right Side(R),15,8,0.5333,384,151,0.3932,0.1401
+203935,Marcus Smart,Marcus,Smart,2021-22,Left Corner 3,Left Side(L),56,19,0.3393,979,384,0.3922,-0.0529
+203935,Marcus Smart,Marcus,Smart,2021-22,Mid-Range,Center(C),7,2,0.2857,1048,479,0.4571,-0.1714
+203935,Marcus Smart,Marcus,Smart,2021-22,Mid-Range,Left Side Center(LC),6,0,0.0,621,253,0.4074,-0.4074
+203935,Marcus Smart,Marcus,Smart,2021-22,Mid-Range,Left Side(L),6,0,0.0,1331,531,0.3989,-0.3989
+203935,Marcus Smart,Marcus,Smart,2021-22,Mid-Range,Right Side Center(RC),9,2,0.2222,662,277,0.4184,-0.1962
+203935,Marcus Smart,Marcus,Smart,2021-22,Mid-Range,Right Side(R),13,5,0.3846,1244,553,0.4445,-0.0599
+203935,Marcus Smart,Marcus,Smart,2021-22,Restricted Area,Center(C),151,95,0.6291,7951,5372,0.6756,-0.0465
+203935,Marcus Smart,Marcus,Smart,2021-22,Right Corner 3,Right Side(R),33,14,0.4242,937,380,0.4055,0.0187
+203935,Marcus Smart,Marcus,Smart,2022-23,Above the Break 3,Back Court(BC),1,0,0.0,3,0,0.0,0.0
+203935,Marcus Smart,Marcus,Smart,2022-23,Above the Break 3,Center(C),48,16,0.3333,2478,863,0.3483,-0.015
+203935,Marcus Smart,Marcus,Smart,2022-23,Above the Break 3,Left Side Center(LC),117,43,0.3675,3403,1285,0.3776,-0.0101
+203935,Marcus Smart,Marcus,Smart,2022-23,Above the Break 3,Right Side Center(RC),104,32,0.3077,3418,1282,0.3751,-0.0674
+203935,Marcus Smart,Marcus,Smart,2022-23,Backcourt,Back Court(BC),3,0,0.0,67,2,0.0299,-0.0299
+203935,Marcus Smart,Marcus,Smart,2022-23,In The Paint (Non-RA),Center(C),111,45,0.4054,6180,2799,0.4529,-0.0475
+203935,Marcus Smart,Marcus,Smart,2022-23,In The Paint (Non-RA),Left Side(L),5,2,0.4,420,203,0.4833,-0.0833
+203935,Marcus Smart,Marcus,Smart,2022-23,In The Paint (Non-RA),Right Side(R),8,5,0.625,466,222,0.4764,0.1486
+203935,Marcus Smart,Marcus,Smart,2022-23,Left Corner 3,Left Side(L),42,14,0.3333,1041,434,0.4169,-0.0836
+203935,Marcus Smart,Marcus,Smart,2022-23,Mid-Range,Center(C),6,1,0.1667,1100,486,0.4418,-0.2751
+203935,Marcus Smart,Marcus,Smart,2022-23,Mid-Range,Left Side Center(LC),5,0,0.0,723,292,0.4039,-0.4039
+203935,Marcus Smart,Marcus,Smart,2022-23,Mid-Range,Left Side(L),5,2,0.4,1305,551,0.4222,-0.0222
+203935,Marcus Smart,Marcus,Smart,2022-23,Mid-Range,Right Side Center(RC),5,3,0.6,814,388,0.4767,0.1233
+203935,Marcus Smart,Marcus,Smart,2022-23,Mid-Range,Right Side(R),5,4,0.8,1287,585,0.4545,0.3455
+203935,Marcus Smart,Marcus,Smart,2022-23,Restricted Area,Center(C),110,73,0.6636,9615,6601,0.6865,-0.0229
+203935,Marcus Smart,Marcus,Smart,2022-23,Right Corner 3,Right Side(R),27,10,0.3704,991,399,0.4026,-0.0322
+203935,Marcus Smart,Marcus,Smart,2023-24,Above the Break 3,Center(C),19,5,0.2632,3110,1144,0.3678,-0.1046
+203935,Marcus Smart,Marcus,Smart,2023-24,Above the Break 3,Left Side Center(LC),39,15,0.3846,4149,1558,0.3755,0.0091
+203935,Marcus Smart,Marcus,Smart,2023-24,Above the Break 3,Right Side Center(RC),40,11,0.275,3883,1445,0.3721,-0.0971
+203935,Marcus Smart,Marcus,Smart,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+203935,Marcus Smart,Marcus,Smart,2023-24,In The Paint (Non-RA),Center(C),49,28,0.5714,6614,3028,0.4578,0.1136
+203935,Marcus Smart,Marcus,Smart,2023-24,In The Paint (Non-RA),Left Side(L),7,3,0.4286,508,239,0.4705,-0.0419
+203935,Marcus Smart,Marcus,Smart,2023-24,In The Paint (Non-RA),Right Side(R),1,1,1.0,507,225,0.4438,0.5562
+203935,Marcus Smart,Marcus,Smart,2023-24,Left Corner 3,Left Side(L),20,7,0.35,1020,403,0.3951,-0.0451
+203935,Marcus Smart,Marcus,Smart,2023-24,Mid-Range,Center(C),6,2,0.3333,1403,647,0.4612,-0.1279
+203935,Marcus Smart,Marcus,Smart,2023-24,Mid-Range,Left Side Center(LC),1,1,1.0,861,380,0.4413,0.5587
+203935,Marcus Smart,Marcus,Smart,2023-24,Mid-Range,Left Side(L),2,0,0.0,1539,668,0.434,-0.434
+203935,Marcus Smart,Marcus,Smart,2023-24,Mid-Range,Right Side Center(RC),2,1,0.5,935,389,0.416,0.084
+203935,Marcus Smart,Marcus,Smart,2023-24,Mid-Range,Right Side(R),6,5,0.8333,1524,649,0.4259,0.4074
+203935,Marcus Smart,Marcus,Smart,2023-24,Restricted Area,Center(C),29,19,0.6552,10307,7128,0.6916,-0.0364
+203935,Marcus Smart,Marcus,Smart,2023-24,Right Corner 3,Right Side(R),14,4,0.2857,957,403,0.4211,-0.1354
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Above the Break 3,Center(C),15,4,0.2667,2263,800,0.3535,-0.0868
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Above the Break 3,Left Side Center(LC),41,14,0.3415,3059,1095,0.358,-0.0165
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Above the Break 3,Right Side Center(RC),76,26,0.3421,2983,1082,0.3627,-0.0206
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,In The Paint (Non-RA),Center(C),173,103,0.5954,5208,2296,0.4409,0.1545
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,In The Paint (Non-RA),Left Side(L),15,7,0.4667,379,185,0.4881,-0.0214
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,In The Paint (Non-RA),Right Side(R),20,10,0.5,384,151,0.3932,0.1068
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Left Corner 3,Left Side(L),71,24,0.338,979,384,0.3922,-0.0542
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Mid-Range,Center(C),18,7,0.3889,1048,479,0.4571,-0.0682
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Mid-Range,Left Side Center(LC),11,1,0.0909,621,253,0.4074,-0.3165
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Mid-Range,Left Side(L),33,13,0.3939,1331,531,0.3989,-0.005
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Mid-Range,Right Side Center(RC),9,3,0.3333,662,277,0.4184,-0.0851
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Mid-Range,Right Side(R),35,16,0.4571,1244,553,0.4445,0.0126
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Restricted Area,Center(C),232,183,0.7888,7951,5372,0.6756,0.1132
+1628969,Mikal Bridges,Mikal,Bridges,2021-22,Right Corner 3,Right Side(R),109,47,0.4312,937,380,0.4055,0.0257
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Above the Break 3,Center(C),58,18,0.3103,2478,863,0.3483,-0.038
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Above the Break 3,Left Side Center(LC),87,27,0.3103,3403,1285,0.3776,-0.0673
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Above the Break 3,Right Side Center(RC),97,36,0.3711,3418,1282,0.3751,-0.004
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Backcourt,Back Court(BC),2,0,0.0,67,2,0.0299,-0.0299
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,In The Paint (Non-RA),Center(C),253,112,0.4427,6180,2799,0.4529,-0.0102
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,In The Paint (Non-RA),Left Side(L),35,19,0.5429,420,203,0.4833,0.0596
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,In The Paint (Non-RA),Right Side(R),25,6,0.24,466,222,0.4764,-0.2364
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Left Corner 3,Left Side(L),104,50,0.4808,1041,434,0.4169,0.0639
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Mid-Range,Center(C),38,15,0.3947,1100,486,0.4418,-0.0471
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Mid-Range,Left Side Center(LC),33,13,0.3939,723,292,0.4039,-0.01
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Mid-Range,Left Side(L),87,44,0.5057,1305,551,0.4222,0.0835
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Mid-Range,Right Side Center(RC),25,11,0.44,814,388,0.4767,-0.0367
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Mid-Range,Right Side(R),82,37,0.4512,1287,585,0.4545,-0.0033
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Restricted Area,Center(C),247,167,0.6761,9615,6601,0.6865,-0.0104
+1628969,Mikal Bridges,Mikal,Bridges,2022-23,Right Corner 3,Right Side(R),94,38,0.4043,991,399,0.4026,0.0017
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Above the Break 3,Back Court(BC),1,0,0.0,7,3,0.4286,-0.4286
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Above the Break 3,Center(C),87,30,0.3448,3110,1144,0.3678,-0.023
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Above the Break 3,Left Side Center(LC),164,59,0.3598,4149,1558,0.3755,-0.0157
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Above the Break 3,Right Side Center(RC),130,48,0.3692,3883,1445,0.3721,-0.0029
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Backcourt,Back Court(BC),5,1,0.2,56,1,0.0179,0.1821
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,In The Paint (Non-RA),Center(C),220,93,0.4227,6614,3028,0.4578,-0.0351
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,In The Paint (Non-RA),Left Side(L),25,9,0.36,508,239,0.4705,-0.1105
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,In The Paint (Non-RA),Right Side(R),17,7,0.4118,507,225,0.4438,-0.032
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Left Corner 3,Left Side(L),100,39,0.39,1020,403,0.3951,-0.0051
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Mid-Range,Center(C),26,8,0.3077,1403,647,0.4612,-0.1535
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Mid-Range,Left Side Center(LC),20,4,0.2,861,380,0.4413,-0.2413
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Mid-Range,Left Side(L),43,22,0.5116,1539,668,0.434,0.0776
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Mid-Range,Right Side Center(RC),24,9,0.375,935,389,0.416,-0.041
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Mid-Range,Right Side(R),66,30,0.4545,1524,649,0.4259,0.0286
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Restricted Area,Center(C),261,162,0.6207,10307,7128,0.6916,-0.0709
+1628969,Mikal Bridges,Mikal,Bridges,2023-24,Right Corner 3,Right Side(R),105,43,0.4095,957,403,0.4211,-0.0116
+1628384,OG Anunoby,OG,Anunoby,2021-22,Above the Break 3,Center(C),51,15,0.2941,2263,800,0.3535,-0.0594
+1628384,OG Anunoby,OG,Anunoby,2021-22,Above the Break 3,Left Side Center(LC),91,25,0.2747,3059,1095,0.358,-0.0833
+1628384,OG Anunoby,OG,Anunoby,2021-22,Above the Break 3,Right Side Center(RC),74,29,0.3919,2983,1082,0.3627,0.0292
+1628384,OG Anunoby,OG,Anunoby,2021-22,In The Paint (Non-RA),Center(C),71,25,0.3521,5208,2296,0.4409,-0.0888
+1628384,OG Anunoby,OG,Anunoby,2021-22,In The Paint (Non-RA),Left Side(L),6,1,0.1667,379,185,0.4881,-0.3214
+1628384,OG Anunoby,OG,Anunoby,2021-22,In The Paint (Non-RA),Right Side(R),3,2,0.6667,384,151,0.3932,0.2735
+1628384,OG Anunoby,OG,Anunoby,2021-22,Left Corner 3,Left Side(L),53,25,0.4717,979,384,0.3922,0.0795
+1628384,OG Anunoby,OG,Anunoby,2021-22,Mid-Range,Center(C),25,6,0.24,1048,479,0.4571,-0.2171
+1628384,OG Anunoby,OG,Anunoby,2021-22,Mid-Range,Left Side Center(LC),12,4,0.3333,621,253,0.4074,-0.0741
+1628384,OG Anunoby,OG,Anunoby,2021-22,Mid-Range,Left Side(L),31,11,0.3548,1331,531,0.3989,-0.0441
+1628384,OG Anunoby,OG,Anunoby,2021-22,Mid-Range,Right Side Center(RC),11,5,0.4545,662,277,0.4184,0.0361
+1628384,OG Anunoby,OG,Anunoby,2021-22,Mid-Range,Right Side(R),12,4,0.3333,1244,553,0.4445,-0.1112
+1628384,OG Anunoby,OG,Anunoby,2021-22,Restricted Area,Center(C),210,136,0.6476,7951,5372,0.6756,-0.028
+1628384,OG Anunoby,OG,Anunoby,2021-22,Right Corner 3,Right Side(R),47,21,0.4468,937,380,0.4055,0.0413
+1628384,OG Anunoby,OG,Anunoby,2022-23,Above the Break 3,Center(C),36,6,0.1667,2478,863,0.3483,-0.1816
+1628384,OG Anunoby,OG,Anunoby,2022-23,Above the Break 3,Left Side Center(LC),88,35,0.3977,3403,1285,0.3776,0.0201
+1628384,OG Anunoby,OG,Anunoby,2022-23,Above the Break 3,Right Side Center(RC),80,28,0.35,3418,1282,0.3751,-0.0251
+1628384,OG Anunoby,OG,Anunoby,2022-23,Backcourt,Back Court(BC),1,0,0.0,67,2,0.0299,-0.0299
+1628384,OG Anunoby,OG,Anunoby,2022-23,In The Paint (Non-RA),Center(C),141,52,0.3688,6180,2799,0.4529,-0.0841
+1628384,OG Anunoby,OG,Anunoby,2022-23,In The Paint (Non-RA),Left Side(L),2,0,0.0,420,203,0.4833,-0.4833
+1628384,OG Anunoby,OG,Anunoby,2022-23,In The Paint (Non-RA),Right Side(R),5,2,0.4,466,222,0.4764,-0.0764
+1628384,OG Anunoby,OG,Anunoby,2022-23,Left Corner 3,Left Side(L),90,42,0.4667,1041,434,0.4169,0.0498
+1628384,OG Anunoby,OG,Anunoby,2022-23,Mid-Range,Center(C),23,14,0.6087,1100,486,0.4418,0.1669
+1628384,OG Anunoby,OG,Anunoby,2022-23,Mid-Range,Left Side Center(LC),12,5,0.4167,723,292,0.4039,0.0128
+1628384,OG Anunoby,OG,Anunoby,2022-23,Mid-Range,Left Side(L),13,3,0.2308,1305,551,0.4222,-0.1914
+1628384,OG Anunoby,OG,Anunoby,2022-23,Mid-Range,Right Side Center(RC),13,4,0.3077,814,388,0.4767,-0.169
+1628384,OG Anunoby,OG,Anunoby,2022-23,Mid-Range,Right Side(R),13,6,0.4615,1287,585,0.4545,0.007
+1628384,OG Anunoby,OG,Anunoby,2022-23,Restricted Area,Center(C),298,194,0.651,9615,6601,0.6865,-0.0355
+1628384,OG Anunoby,OG,Anunoby,2022-23,Right Corner 3,Right Side(R),70,30,0.4286,991,399,0.4026,0.026
+1628384,OG Anunoby,OG,Anunoby,2023-24,Above the Break 3,Center(C),29,14,0.4828,3110,1144,0.3678,0.115
+1628384,OG Anunoby,OG,Anunoby,2023-24,Above the Break 3,Left Side Center(LC),62,19,0.3065,4149,1558,0.3755,-0.069
+1628384,OG Anunoby,OG,Anunoby,2023-24,Above the Break 3,Right Side Center(RC),40,9,0.225,3883,1445,0.3721,-0.1471
+1628384,OG Anunoby,OG,Anunoby,2023-24,In The Paint (Non-RA),Center(C),62,17,0.2742,6614,3028,0.4578,-0.1836
+1628384,OG Anunoby,OG,Anunoby,2023-24,In The Paint (Non-RA),Left Side(L),3,2,0.6667,508,239,0.4705,0.1962
+1628384,OG Anunoby,OG,Anunoby,2023-24,In The Paint (Non-RA),Right Side(R),1,1,1.0,507,225,0.4438,0.5562
+1628384,OG Anunoby,OG,Anunoby,2023-24,Left Corner 3,Left Side(L),82,38,0.4634,1020,403,0.3951,0.0683
+1628384,OG Anunoby,OG,Anunoby,2023-24,Mid-Range,Center(C),13,5,0.3846,1403,647,0.4612,-0.0766
+1628384,OG Anunoby,OG,Anunoby,2023-24,Mid-Range,Left Side Center(LC),5,4,0.8,861,380,0.4413,0.3587
+1628384,OG Anunoby,OG,Anunoby,2023-24,Mid-Range,Left Side(L),13,7,0.5385,1539,668,0.434,0.1045
+1628384,OG Anunoby,OG,Anunoby,2023-24,Mid-Range,Right Side Center(RC),4,2,0.5,935,389,0.416,0.084
+1628384,OG Anunoby,OG,Anunoby,2023-24,Mid-Range,Right Side(R),12,4,0.3333,1524,649,0.4259,-0.0926
+1628384,OG Anunoby,OG,Anunoby,2023-24,Restricted Area,Center(C),197,138,0.7005,10307,7128,0.6916,0.0089
+1628384,OG Anunoby,OG,Anunoby,2023-24,Right Corner 3,Right Side(R),54,22,0.4074,957,403,0.4211,-0.0137
+202331,Paul George,Paul,George,2021-22,Above the Break 3,Center(C),61,15,0.2459,2263,800,0.3535,-0.1076
+202331,Paul George,Paul,George,2021-22,Above the Break 3,Left Side Center(LC),64,19,0.2969,3059,1095,0.358,-0.0611
+202331,Paul George,Paul,George,2021-22,Above the Break 3,Right Side Center(RC),89,33,0.3708,2983,1082,0.3627,0.0081
+202331,Paul George,Paul,George,2021-22,In The Paint (Non-RA),Center(C),77,29,0.3766,5208,2296,0.4409,-0.0643
+202331,Paul George,Paul,George,2021-22,In The Paint (Non-RA),Left Side(L),1,0,0.0,379,185,0.4881,-0.4881
+202331,Paul George,Paul,George,2021-22,In The Paint (Non-RA),Right Side(R),11,5,0.4545,384,151,0.3932,0.0613
+202331,Paul George,Paul,George,2021-22,Left Corner 3,Left Side(L),20,11,0.55,979,384,0.3922,0.1578
+202331,Paul George,Paul,George,2021-22,Mid-Range,Center(C),32,12,0.375,1048,479,0.4571,-0.0821
+202331,Paul George,Paul,George,2021-22,Mid-Range,Left Side Center(LC),15,5,0.3333,621,253,0.4074,-0.0741
+202331,Paul George,Paul,George,2021-22,Mid-Range,Left Side(L),29,16,0.5517,1331,531,0.3989,0.1528
+202331,Paul George,Paul,George,2021-22,Mid-Range,Right Side Center(RC),46,17,0.3696,662,277,0.4184,-0.0488
+202331,Paul George,Paul,George,2021-22,Mid-Range,Right Side(R),52,24,0.4615,1244,553,0.4445,0.017
+202331,Paul George,Paul,George,2021-22,Restricted Area,Center(C),116,69,0.5948,7951,5372,0.6756,-0.0808
+202331,Paul George,Paul,George,2021-22,Right Corner 3,Right Side(R),23,13,0.5652,937,380,0.4055,0.1597
+202331,Paul George,Paul,George,2022-23,Above the Break 3,Back Court(BC),1,0,0.0,3,0,0.0,0.0
+202331,Paul George,Paul,George,2022-23,Above the Break 3,Center(C),110,32,0.2909,2478,863,0.3483,-0.0574
+202331,Paul George,Paul,George,2022-23,Above the Break 3,Left Side Center(LC),93,29,0.3118,3403,1285,0.3776,-0.0658
+202331,Paul George,Paul,George,2022-23,Above the Break 3,Right Side Center(RC),161,69,0.4286,3418,1282,0.3751,0.0535
+202331,Paul George,Paul,George,2022-23,Backcourt,Back Court(BC),3,0,0.0,67,2,0.0299,-0.0299
+202331,Paul George,Paul,George,2022-23,In The Paint (Non-RA),Center(C),121,53,0.438,6180,2799,0.4529,-0.0149
+202331,Paul George,Paul,George,2022-23,In The Paint (Non-RA),Left Side(L),4,2,0.5,420,203,0.4833,0.0167
+202331,Paul George,Paul,George,2022-23,In The Paint (Non-RA),Right Side(R),12,7,0.5833,466,222,0.4764,0.1069
+202331,Paul George,Paul,George,2022-23,Left Corner 3,Left Side(L),25,10,0.4,1041,434,0.4169,-0.0169
+202331,Paul George,Paul,George,2022-23,Mid-Range,Center(C),44,18,0.4091,1100,486,0.4418,-0.0327
+202331,Paul George,Paul,George,2022-23,Mid-Range,Left Side Center(LC),25,9,0.36,723,292,0.4039,-0.0439
+202331,Paul George,Paul,George,2022-23,Mid-Range,Left Side(L),27,10,0.3704,1305,551,0.4222,-0.0518
+202331,Paul George,Paul,George,2022-23,Mid-Range,Right Side Center(RC),78,31,0.3974,814,388,0.4767,-0.0793
+202331,Paul George,Paul,George,2022-23,Mid-Range,Right Side(R),67,34,0.5075,1287,585,0.4545,0.053
+202331,Paul George,Paul,George,2022-23,Restricted Area,Center(C),200,137,0.685,9615,6601,0.6865,-0.0015
+202331,Paul George,Paul,George,2022-23,Right Corner 3,Right Side(R),33,18,0.5455,991,399,0.4026,0.1429
+202331,Paul George,Paul,George,2023-24,Above the Break 3,Back Court(BC),1,0,0.0,7,3,0.4286,-0.4286
+202331,Paul George,Paul,George,2023-24,Above the Break 3,Center(C),151,66,0.4371,3110,1144,0.3678,0.0693
+202331,Paul George,Paul,George,2023-24,Above the Break 3,Left Side Center(LC),127,57,0.4488,4149,1558,0.3755,0.0733
+202331,Paul George,Paul,George,2023-24,Above the Break 3,Right Side Center(RC),216,80,0.3704,3883,1445,0.3721,-0.0017
+202331,Paul George,Paul,George,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+202331,Paul George,Paul,George,2023-24,In The Paint (Non-RA),Center(C),141,66,0.4681,6614,3028,0.4578,0.0103
+202331,Paul George,Paul,George,2023-24,In The Paint (Non-RA),Left Side(L),8,4,0.5,508,239,0.4705,0.0295
+202331,Paul George,Paul,George,2023-24,In The Paint (Non-RA),Right Side(R),12,5,0.4167,507,225,0.4438,-0.0271
+202331,Paul George,Paul,George,2023-24,Left Corner 3,Left Side(L),39,21,0.5385,1020,403,0.3951,0.1434
+202331,Paul George,Paul,George,2023-24,Mid-Range,Center(C),66,29,0.4394,1403,647,0.4612,-0.0218
+202331,Paul George,Paul,George,2023-24,Mid-Range,Left Side Center(LC),50,21,0.42,861,380,0.4413,-0.0213
+202331,Paul George,Paul,George,2023-24,Mid-Range,Left Side(L),42,22,0.5238,1539,668,0.434,0.0898
+202331,Paul George,Paul,George,2023-24,Mid-Range,Right Side Center(RC),60,24,0.4,935,389,0.416,-0.016
+202331,Paul George,Paul,George,2023-24,Mid-Range,Right Side(R),69,34,0.4928,1524,649,0.4259,0.0669
+202331,Paul George,Paul,George,2023-24,Restricted Area,Center(C),200,134,0.67,10307,7128,0.6916,-0.0216
+202331,Paul George,Paul,George,2023-24,Right Corner 3,Right Side(R),53,19,0.3585,957,403,0.4211,-0.0626
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Above the Break 3,Center(C),35,10,0.2857,2263,800,0.3535,-0.0678
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Above the Break 3,Left Side Center(LC),43,13,0.3023,3059,1095,0.358,-0.0557
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Above the Break 3,Right Side Center(RC),51,13,0.2549,2983,1082,0.3627,-0.1078
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Backcourt,Back Court(BC),4,1,0.25,49,1,0.0204,0.2296
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,In The Paint (Non-RA),Center(C),263,112,0.4259,5208,2296,0.4409,-0.015
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,In The Paint (Non-RA),Left Side(L),13,7,0.5385,379,185,0.4881,0.0504
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,In The Paint (Non-RA),Right Side(R),9,5,0.5556,384,151,0.3932,0.1624
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Left Corner 3,Left Side(L),17,5,0.2941,979,384,0.3922,-0.0981
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Mid-Range,Center(C),25,9,0.36,1048,479,0.4571,-0.0971
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Mid-Range,Left Side Center(LC),22,7,0.3182,621,253,0.4074,-0.0892
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Mid-Range,Left Side(L),45,16,0.3556,1331,531,0.3989,-0.0433
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Mid-Range,Right Side Center(RC),35,16,0.4571,662,277,0.4184,0.0387
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Mid-Range,Right Side(R),27,15,0.5556,1244,553,0.4445,0.1111
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Restricted Area,Center(C),303,215,0.7096,7951,5372,0.6756,0.034
+1630567,Scottie Barnes,Scottie,Barnes,2021-22,Right Corner 3,Right Side(R),40,15,0.375,937,380,0.4055,-0.0305
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Above the Break 3,Center(C),39,9,0.2308,2478,863,0.3483,-0.1175
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Above the Break 3,Left Side Center(LC),42,11,0.2619,3403,1285,0.3776,-0.1157
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Above the Break 3,Right Side Center(RC),61,18,0.2951,3418,1282,0.3751,-0.08
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Backcourt,Back Court(BC),4,0,0.0,67,2,0.0299,-0.0299
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,In The Paint (Non-RA),Center(C),285,118,0.414,6180,2799,0.4529,-0.0389
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,In The Paint (Non-RA),Left Side(L),13,8,0.6154,420,203,0.4833,0.1321
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,In The Paint (Non-RA),Right Side(R),15,6,0.4,466,222,0.4764,-0.0764
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Left Corner 3,Left Side(L),31,13,0.4194,1041,434,0.4169,0.0025
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Mid-Range,Center(C),32,12,0.375,1100,486,0.4418,-0.0668
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Mid-Range,Left Side Center(LC),16,6,0.375,723,292,0.4039,-0.0289
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Mid-Range,Left Side(L),37,9,0.2432,1305,551,0.4222,-0.179
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Mid-Range,Right Side Center(RC),29,12,0.4138,814,388,0.4767,-0.0629
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Mid-Range,Right Side(R),20,4,0.2,1287,585,0.4545,-0.2545
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Restricted Area,Center(C),346,226,0.6532,9615,6601,0.6865,-0.0333
+1630567,Scottie Barnes,Scottie,Barnes,2022-23,Right Corner 3,Right Side(R),46,11,0.2391,991,399,0.4026,-0.1635
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Above the Break 3,Center(C),82,31,0.378,3110,1144,0.3678,0.0102
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Above the Break 3,Left Side Center(LC),92,35,0.3804,4149,1558,0.3755,0.0049
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Above the Break 3,Right Side Center(RC),74,20,0.2703,3883,1445,0.3721,-0.1018
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,In The Paint (Non-RA),Center(C),215,88,0.4093,6614,3028,0.4578,-0.0485
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,In The Paint (Non-RA),Left Side(L),10,1,0.1,508,239,0.4705,-0.3705
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,In The Paint (Non-RA),Right Side(R),11,5,0.4545,507,225,0.4438,0.0107
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Left Corner 3,Left Side(L),25,6,0.24,1020,403,0.3951,-0.1551
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Mid-Range,Center(C),30,12,0.4,1403,647,0.4612,-0.0612
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Mid-Range,Left Side Center(LC),15,8,0.5333,861,380,0.4413,0.092
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Mid-Range,Left Side(L),33,8,0.2424,1539,668,0.434,-0.1916
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Mid-Range,Right Side Center(RC),13,6,0.4615,935,389,0.416,0.0455
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Mid-Range,Right Side(R),17,7,0.4118,1524,649,0.4259,-0.0141
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Restricted Area,Center(C),301,210,0.6977,10307,7128,0.6916,0.0061
+1630567,Scottie Barnes,Scottie,Barnes,2023-24,Right Corner 3,Right Side(R),23,10,0.4348,957,403,0.4211,0.0137
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Above the Break 3,Center(C),61,19,0.3115,2263,800,0.3535,-0.042
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Above the Break 3,Left Side Center(LC),102,33,0.3235,3059,1095,0.358,-0.0345
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Above the Break 3,Right Side Center(RC),109,28,0.2569,2983,1082,0.3627,-0.1058
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,In The Paint (Non-RA),Center(C),283,124,0.4382,5208,2296,0.4409,-0.0027
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,In The Paint (Non-RA),Left Side(L),26,12,0.4615,379,185,0.4881,-0.0266
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,In The Paint (Non-RA),Right Side(R),12,5,0.4167,384,151,0.3932,0.0235
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Left Corner 3,Left Side(L),14,4,0.2857,979,384,0.3922,-0.1065
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Mid-Range,Center(C),20,9,0.45,1048,479,0.4571,-0.0071
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Mid-Range,Left Side Center(LC),16,8,0.5,621,253,0.4074,0.0926
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Mid-Range,Left Side(L),41,19,0.4634,1331,531,0.3989,0.0645
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Mid-Range,Right Side Center(RC),14,4,0.2857,662,277,0.4184,-0.1327
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Mid-Range,Right Side(R),28,12,0.4286,1244,553,0.4445,-0.0159
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Restricted Area,Center(C),315,195,0.619,7951,5372,0.6756,-0.0566
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2021-22,Right Corner 3,Right Side(R),11,5,0.4545,937,380,0.4055,0.049
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Above the Break 3,Center(C),31,12,0.3871,2478,863,0.3483,0.0388
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Above the Break 3,Left Side Center(LC),84,28,0.3333,3403,1285,0.3776,-0.0443
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Above the Break 3,Right Side Center(RC),35,14,0.4,3418,1282,0.3751,0.0249
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Backcourt,Back Court(BC),1,0,0.0,67,2,0.0299,-0.0299
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,In The Paint (Non-RA),Center(C),391,187,0.4783,6180,2799,0.4529,0.0254
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,In The Paint (Non-RA),Left Side(L),27,13,0.4815,420,203,0.4833,-0.0018
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,In The Paint (Non-RA),Right Side(R),49,25,0.5102,466,222,0.4764,0.0338
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Left Corner 3,Left Side(L),10,3,0.3,1041,434,0.4169,-0.1169
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Mid-Range,Center(C),49,21,0.4286,1100,486,0.4418,-0.0132
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Mid-Range,Left Side Center(LC),47,18,0.383,723,292,0.4039,-0.0209
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Mid-Range,Left Side(L),77,34,0.4416,1305,551,0.4222,0.0194
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Mid-Range,Right Side Center(RC),27,11,0.4074,814,388,0.4767,-0.0693
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Mid-Range,Right Side(R),47,20,0.4255,1287,585,0.4545,-0.029
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Restricted Area,Center(C),499,317,0.6353,9615,6601,0.6865,-0.0512
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2022-23,Right Corner 3,Right Side(R),7,1,0.1429,991,399,0.4026,-0.2597
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Above the Break 3,Center(C),63,26,0.4127,3110,1144,0.3678,0.0449
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Above the Break 3,Left Side Center(LC),108,33,0.3056,4149,1558,0.3755,-0.0699
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Above the Break 3,Right Side Center(RC),81,27,0.3333,3883,1445,0.3721,-0.0388
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,In The Paint (Non-RA),Center(C),347,175,0.5043,6614,3028,0.4578,0.0465
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,In The Paint (Non-RA),Left Side(L),46,26,0.5652,508,239,0.4705,0.0947
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,In The Paint (Non-RA),Right Side(R),38,22,0.5789,507,225,0.4438,0.1351
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Left Corner 3,Left Side(L),13,8,0.6154,1020,403,0.3951,0.2203
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Mid-Range,Center(C),62,24,0.3871,1403,647,0.4612,-0.0741
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Mid-Range,Left Side Center(LC),45,23,0.5111,861,380,0.4413,0.0698
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Mid-Range,Left Side(L),97,57,0.5876,1539,668,0.434,0.1536
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Mid-Range,Right Side Center(RC),34,16,0.4706,935,389,0.416,0.0546
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Mid-Range,Right Side(R),98,46,0.4694,1524,649,0.4259,0.0435
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Restricted Area,Center(C),451,312,0.6918,10307,7128,0.6916,0.0002
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,2023-24,Right Corner 3,Right Side(R),4,1,0.25,957,403,0.4211,-0.1711
+201939,Stephen Curry,Stephen,Curry,2021-22,Above the Break 3,Center(C),193,67,0.3472,2263,800,0.3535,-0.0063
+201939,Stephen Curry,Stephen,Curry,2021-22,Above the Break 3,Left Side Center(LC),244,104,0.4262,3059,1095,0.358,0.0682
+201939,Stephen Curry,Stephen,Curry,2021-22,Above the Break 3,Right Side Center(RC),231,90,0.3896,2983,1082,0.3627,0.0269
+201939,Stephen Curry,Stephen,Curry,2021-22,Backcourt,Back Court(BC),5,0,0.0,49,1,0.0204,-0.0204
+201939,Stephen Curry,Stephen,Curry,2021-22,In The Paint (Non-RA),Center(C),115,54,0.4696,5208,2296,0.4409,0.0287
+201939,Stephen Curry,Stephen,Curry,2021-22,In The Paint (Non-RA),Left Side(L),11,5,0.4545,379,185,0.4881,-0.0336
+201939,Stephen Curry,Stephen,Curry,2021-22,In The Paint (Non-RA),Right Side(R),11,8,0.7273,384,151,0.3932,0.3341
+201939,Stephen Curry,Stephen,Curry,2021-22,Left Corner 3,Left Side(L),39,13,0.3333,979,384,0.3922,-0.0589
+201939,Stephen Curry,Stephen,Curry,2021-22,Mid-Range,Center(C),33,17,0.5152,1048,479,0.4571,0.0581
+201939,Stephen Curry,Stephen,Curry,2021-22,Mid-Range,Left Side Center(LC),26,11,0.4231,621,253,0.4074,0.0157
+201939,Stephen Curry,Stephen,Curry,2021-22,Mid-Range,Left Side(L),28,9,0.3214,1331,531,0.3989,-0.0775
+201939,Stephen Curry,Stephen,Curry,2021-22,Mid-Range,Right Side Center(RC),20,7,0.35,662,277,0.4184,-0.0684
+201939,Stephen Curry,Stephen,Curry,2021-22,Mid-Range,Right Side(R),27,15,0.5556,1244,553,0.4445,0.1111
+201939,Stephen Curry,Stephen,Curry,2021-22,Restricted Area,Center(C),204,124,0.6078,7951,5372,0.6756,-0.0678
+201939,Stephen Curry,Stephen,Curry,2021-22,Right Corner 3,Right Side(R),37,11,0.2973,937,380,0.4055,-0.1082
+201939,Stephen Curry,Stephen,Curry,2022-23,Above the Break 3,Center(C),165,62,0.3758,2478,863,0.3483,0.0275
+201939,Stephen Curry,Stephen,Curry,2022-23,Above the Break 3,Left Side Center(LC),189,82,0.4339,3403,1285,0.3776,0.0563
+201939,Stephen Curry,Stephen,Curry,2022-23,Above the Break 3,Right Side Center(RC),210,89,0.4238,3418,1282,0.3751,0.0487
+201939,Stephen Curry,Stephen,Curry,2022-23,Backcourt,Back Court(BC),9,1,0.1111,67,2,0.0299,0.0812
+201939,Stephen Curry,Stephen,Curry,2022-23,In The Paint (Non-RA),Center(C),176,91,0.517,6180,2799,0.4529,0.0641
+201939,Stephen Curry,Stephen,Curry,2022-23,In The Paint (Non-RA),Left Side(L),1,1,1.0,420,203,0.4833,0.5167
+201939,Stephen Curry,Stephen,Curry,2022-23,In The Paint (Non-RA),Right Side(R),12,5,0.4167,466,222,0.4764,-0.0597
+201939,Stephen Curry,Stephen,Curry,2022-23,Left Corner 3,Left Side(L),38,22,0.5789,1041,434,0.4169,0.162
+201939,Stephen Curry,Stephen,Curry,2022-23,Mid-Range,Center(C),31,12,0.3871,1100,486,0.4418,-0.0547
+201939,Stephen Curry,Stephen,Curry,2022-23,Mid-Range,Left Side Center(LC),18,10,0.5556,723,292,0.4039,0.1517
+201939,Stephen Curry,Stephen,Curry,2022-23,Mid-Range,Left Side(L),28,17,0.6071,1305,551,0.4222,0.1849
+201939,Stephen Curry,Stephen,Curry,2022-23,Mid-Range,Right Side Center(RC),32,13,0.4062,814,388,0.4767,-0.0705
+201939,Stephen Curry,Stephen,Curry,2022-23,Mid-Range,Right Side(R),27,13,0.4815,1287,585,0.4545,0.027
+201939,Stephen Curry,Stephen,Curry,2022-23,Restricted Area,Center(C),170,124,0.7294,9615,6601,0.6865,0.0429
+201939,Stephen Curry,Stephen,Curry,2022-23,Right Corner 3,Right Side(R),27,17,0.6296,991,399,0.4026,0.227
+201939,Stephen Curry,Stephen,Curry,2023-24,Above the Break 3,Back Court(BC),1,0,0.0,7,3,0.4286,-0.4286
+201939,Stephen Curry,Stephen,Curry,2023-24,Above the Break 3,Center(C),211,80,0.3791,3110,1144,0.3678,0.0113
+201939,Stephen Curry,Stephen,Curry,2023-24,Above the Break 3,Left Side Center(LC),294,112,0.381,4149,1558,0.3755,0.0055
+201939,Stephen Curry,Stephen,Curry,2023-24,Above the Break 3,Right Side Center(RC),290,123,0.4241,3883,1445,0.3721,0.052
+201939,Stephen Curry,Stephen,Curry,2023-24,Backcourt,Back Court(BC),2,0,0.0,56,1,0.0179,-0.0179
+201939,Stephen Curry,Stephen,Curry,2023-24,In The Paint (Non-RA),Center(C),197,103,0.5228,6614,3028,0.4578,0.065
+201939,Stephen Curry,Stephen,Curry,2023-24,In The Paint (Non-RA),Left Side(L),8,4,0.5,508,239,0.4705,0.0295
+201939,Stephen Curry,Stephen,Curry,2023-24,In The Paint (Non-RA),Right Side(R),12,2,0.1667,507,225,0.4438,-0.2771
+201939,Stephen Curry,Stephen,Curry,2023-24,Left Corner 3,Left Side(L),42,22,0.5238,1020,403,0.3951,0.1287
+201939,Stephen Curry,Stephen,Curry,2023-24,Mid-Range,Center(C),41,21,0.5122,1403,647,0.4612,0.051
+201939,Stephen Curry,Stephen,Curry,2023-24,Mid-Range,Left Side Center(LC),30,11,0.3667,861,380,0.4413,-0.0746
+201939,Stephen Curry,Stephen,Curry,2023-24,Mid-Range,Left Side(L),41,14,0.3415,1539,668,0.434,-0.0925
+201939,Stephen Curry,Stephen,Curry,2023-24,Mid-Range,Right Side Center(RC),34,10,0.2941,935,389,0.416,-0.1219
+201939,Stephen Curry,Stephen,Curry,2023-24,Mid-Range,Right Side(R),37,20,0.5405,1524,649,0.4259,0.1146
+201939,Stephen Curry,Stephen,Curry,2023-24,Restricted Area,Center(C),169,108,0.6391,10307,7128,0.6916,-0.0525
+201939,Stephen Curry,Stephen,Curry,2023-24,Right Corner 3,Right Side(R),36,20,0.5556,957,403,0.4211,0.1345
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Above the Break 3,Center(C),83,36,0.4337,2263,800,0.3535,0.0802
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Above the Break 3,Left Side Center(LC),98,41,0.4184,3059,1095,0.358,0.0604
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Above the Break 3,Right Side Center(RC),143,59,0.4126,2983,1082,0.3627,0.0499
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Backcourt,Back Court(BC),9,0,0.0,49,1,0.0204,-0.0204
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,In The Paint (Non-RA),Center(C),175,76,0.4343,5208,2296,0.4409,-0.0066
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,In The Paint (Non-RA),Left Side(L),9,6,0.6667,379,185,0.4881,0.1786
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,In The Paint (Non-RA),Right Side(R),20,11,0.55,384,151,0.3932,0.1568
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Left Corner 3,Left Side(L),30,12,0.4,979,384,0.3922,0.0078
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Mid-Range,Center(C),44,22,0.5,1048,479,0.4571,0.0429
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Mid-Range,Left Side Center(LC),16,7,0.4375,621,253,0.4074,0.0301
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Mid-Range,Left Side(L),28,13,0.4643,1331,531,0.3989,0.0654
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Mid-Range,Right Side Center(RC),28,13,0.4643,662,277,0.4184,0.0459
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Mid-Range,Right Side(R),51,25,0.4902,1244,553,0.4445,0.0457
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Restricted Area,Center(C),149,96,0.6443,7951,5372,0.6756,-0.0313
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2021-22,Right Corner 3,Right Side(R),26,13,0.5,937,380,0.4055,0.0945
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Above the Break 3,Center(C),96,37,0.3854,2478,863,0.3483,0.0371
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Above the Break 3,Left Side Center(LC),105,51,0.4857,3403,1285,0.3776,0.1081
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Above the Break 3,Right Side Center(RC),154,53,0.3442,3418,1282,0.3751,-0.0309
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Backcourt,Back Court(BC),6,1,0.1667,67,2,0.0299,0.1368
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,In The Paint (Non-RA),Center(C),121,57,0.4711,6180,2799,0.4529,0.0182
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,In The Paint (Non-RA),Left Side(L),5,2,0.4,420,203,0.4833,-0.0833
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,In The Paint (Non-RA),Right Side(R),10,3,0.3,466,222,0.4764,-0.1764
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Left Corner 3,Left Side(L),15,6,0.4,1041,434,0.4169,-0.0169
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Mid-Range,Center(C),14,5,0.3571,1100,486,0.4418,-0.0847
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Mid-Range,Left Side Center(LC),7,4,0.5714,723,292,0.4039,0.1675
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Mid-Range,Left Side(L),12,4,0.3333,1305,551,0.4222,-0.0889
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Mid-Range,Right Side Center(RC),15,11,0.7333,814,388,0.4767,0.2566
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Mid-Range,Right Side(R),32,16,0.5,1287,585,0.4545,0.0455
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Restricted Area,Center(C),223,149,0.6682,9615,6601,0.6865,-0.0183
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2022-23,Right Corner 3,Right Side(R),26,13,0.5,991,399,0.4026,0.0974
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Above the Break 3,Back Court(BC),1,0,0.0,7,3,0.4286,-0.4286
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Above the Break 3,Center(C),148,60,0.4054,3110,1144,0.3678,0.0376
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Above the Break 3,Left Side Center(LC),151,51,0.3377,4149,1558,0.3755,-0.0378
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Above the Break 3,Right Side Center(RC),184,69,0.375,3883,1445,0.3721,0.0029
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Backcourt,Back Court(BC),4,0,0.0,56,1,0.0179,-0.0179
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,In The Paint (Non-RA),Center(C),146,76,0.5205,6614,3028,0.4578,0.0627
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,In The Paint (Non-RA),Left Side(L),5,2,0.4,508,239,0.4705,-0.0705
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,In The Paint (Non-RA),Right Side(R),9,6,0.6667,507,225,0.4438,0.2229
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Left Corner 3,Left Side(L),14,4,0.2857,1020,403,0.3951,-0.1094
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Mid-Range,Center(C),21,14,0.6667,1403,647,0.4612,0.2055
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Mid-Range,Left Side Center(LC),7,1,0.1429,861,380,0.4413,-0.2984
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Mid-Range,Left Side(L),27,15,0.5556,1539,668,0.434,0.1216
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Mid-Range,Right Side Center(RC),43,23,0.5349,935,389,0.416,0.1189
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Mid-Range,Right Side(R),50,28,0.56,1524,649,0.4259,0.1341
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Restricted Area,Center(C),205,140,0.6829,10307,7128,0.6916,-0.0087
+1630169,Tyrese Haliburton,Tyrese,Haliburton,2023-24,Right Corner 3,Right Side(R),33,11,0.3333,957,403,0.4211,-0.0878
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Above the Break 3,Center(C),62,23,0.371,2263,800,0.3535,0.0175
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Above the Break 3,Left Side Center(LC),80,32,0.4,3059,1095,0.358,0.042
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Above the Break 3,Right Side Center(RC),103,42,0.4078,2983,1082,0.3627,0.0451
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Backcourt,Back Court(BC),2,0,0.0,49,1,0.0204,-0.0204
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,In The Paint (Non-RA),Center(C),195,84,0.4308,5208,2296,0.4409,-0.0101
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,In The Paint (Non-RA),Left Side(L),5,2,0.4,379,185,0.4881,-0.0881
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,In The Paint (Non-RA),Right Side(R),16,6,0.375,384,151,0.3932,-0.0182
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Left Corner 3,Left Side(L),19,11,0.5789,979,384,0.3922,0.1867
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Mid-Range,Center(C),23,11,0.4783,1048,479,0.4571,0.0212
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Mid-Range,Left Side Center(LC),13,5,0.3846,621,253,0.4074,-0.0228
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Mid-Range,Left Side(L),30,14,0.4667,1331,531,0.3989,0.0678
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Mid-Range,Right Side Center(RC),25,12,0.48,662,277,0.4184,0.0616
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Mid-Range,Right Side(R),72,25,0.3472,1244,553,0.4445,-0.0973
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Restricted Area,Center(C),310,193,0.6226,7951,5372,0.6756,-0.053
+1630178,Tyrese Maxey,Tyrese,Maxey,2021-22,Right Corner 3,Right Side(R),40,23,0.575,937,380,0.4055,0.1695
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Above the Break 3,Center(C),64,24,0.375,2478,863,0.3483,0.0267
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Above the Break 3,Left Side Center(LC),126,55,0.4365,3403,1285,0.3776,0.0589
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Above the Break 3,Right Side Center(RC),94,39,0.4149,3418,1282,0.3751,0.0398
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Backcourt,Back Court(BC),1,0,0.0,67,2,0.0299,-0.0299
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,In The Paint (Non-RA),Center(C),156,68,0.4359,6180,2799,0.4529,-0.017
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,In The Paint (Non-RA),Left Side(L),5,2,0.4,420,203,0.4833,-0.0833
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,In The Paint (Non-RA),Right Side(R),16,9,0.5625,466,222,0.4764,0.0861
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Left Corner 3,Left Side(L),39,20,0.5128,1041,434,0.4169,0.0959
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Mid-Range,Center(C),24,12,0.5,1100,486,0.4418,0.0582
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Mid-Range,Left Side Center(LC),8,2,0.25,723,292,0.4039,-0.1539
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Mid-Range,Left Side(L),21,6,0.2857,1305,551,0.4222,-0.1365
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Mid-Range,Right Side Center(RC),19,13,0.6842,814,388,0.4767,0.2075
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Mid-Range,Right Side(R),36,15,0.4167,1287,585,0.4545,-0.0378
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Restricted Area,Center(C),259,152,0.5869,9615,6601,0.6865,-0.0996
+1630178,Tyrese Maxey,Tyrese,Maxey,2022-23,Right Corner 3,Right Side(R),45,22,0.4889,991,399,0.4026,0.0863
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Above the Break 3,Back Court(BC),1,1,1.0,7,3,0.4286,0.5714
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Above the Break 3,Center(C),160,53,0.3312,3110,1144,0.3678,-0.0366
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Above the Break 3,Left Side Center(LC),192,67,0.349,4149,1558,0.3755,-0.0265
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Above the Break 3,Right Side Center(RC),168,66,0.3929,3883,1445,0.3721,0.0208
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Backcourt,Back Court(BC),3,0,0.0,56,1,0.0179,-0.0179
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,In The Paint (Non-RA),Center(C),256,105,0.4102,6614,3028,0.4578,-0.0476
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,In The Paint (Non-RA),Left Side(L),9,0,0.0,508,239,0.4705,-0.4705
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,In The Paint (Non-RA),Right Side(R),45,20,0.4444,507,225,0.4438,0.0006
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Left Corner 3,Left Side(L),24,13,0.5417,1020,403,0.3951,0.1466
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Mid-Range,Center(C),37,12,0.3243,1403,647,0.4612,-0.1369
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Mid-Range,Left Side Center(LC),12,3,0.25,861,380,0.4413,-0.1913
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Mid-Range,Left Side(L),17,4,0.2353,1539,668,0.434,-0.1987
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Mid-Range,Right Side Center(RC),28,11,0.3929,935,389,0.416,-0.0231
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Mid-Range,Right Side(R),54,22,0.4074,1524,649,0.4259,-0.0185
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Restricted Area,Center(C),392,249,0.6352,10307,7128,0.6916,-0.0564
+1630178,Tyrese Maxey,Tyrese,Maxey,2023-24,Right Corner 3,Right Side(R),21,12,0.5714,957,403,0.4211,0.1503
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Above the Break 3,Center(C),129,40,0.3101,3110,1144,0.3678,-0.0577
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Above the Break 3,Left Side Center(LC),134,43,0.3209,4149,1558,0.3755,-0.0546
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Above the Break 3,Right Side Center(RC),108,33,0.3056,3883,1445,0.3721,-0.0665
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Backcourt,Back Court(BC),1,0,0.0,56,1,0.0179,-0.0179
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,In The Paint (Non-RA),Center(C),180,77,0.4278,6614,3028,0.4578,-0.03
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,In The Paint (Non-RA),Left Side(L),13,3,0.2308,508,239,0.4705,-0.2397
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,In The Paint (Non-RA),Right Side(R),13,2,0.1538,507,225,0.4438,-0.29
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Left Corner 3,Left Side(L),11,7,0.6364,1020,403,0.3951,0.2413
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Mid-Range,Center(C),38,16,0.4211,1403,647,0.4612,-0.0401
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Mid-Range,Left Side Center(LC),23,8,0.3478,861,380,0.4413,-0.0935
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Mid-Range,Left Side(L),51,16,0.3137,1539,668,0.434,-0.1203
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Mid-Range,Right Side Center(RC),19,4,0.2105,935,389,0.416,-0.2055
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Mid-Range,Right Side(R),59,20,0.339,1524,649,0.4259,-0.0869
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Restricted Area,Center(C),396,277,0.6995,10307,7128,0.6916,0.0079
+1641705,Victor Wembanyama,Victor,Wembanyama,2023-24,Right Corner 3,Right Side(R),11,5,0.4545,957,403,0.4211,0.0334
