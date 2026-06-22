@@ -153,6 +153,10 @@ def render_zone_heatmap(df, title: str):
     df = df[df["shot_zone_area_clean"] != "Back"]
     df = df[df["fga"] >= 10]
 
+    if df.empty:
+        st.info(f"No zones with at least 10 attempts for {title}.")
+        return
+
     chart = (
         alt.Chart(df)
         .mark_rect()
@@ -160,15 +164,15 @@ def render_zone_heatmap(df, title: str):
             x=alt.X(
                 "shot_zone_area_clean:N",
                 sort=[
-                    "Center",
-                    "L Center",
                     "L Wing",
+                    "L Center",
+                    "Center",
                     "R Center",
                     "R Wing",
                 ],
                 title="Area",
                 axis=alt.Axis(
-                    labelAngle=0,
+                    labelAngle=-15,
                     labelPadding=10,
                     labelOverlap=False,
                 ),
@@ -195,8 +199,8 @@ def render_zone_heatmap(df, title: str):
         )
         .properties(
             title=title,
-            width=700,
-            height=320,
+            width=550,
+            height=260,
         )
     )
 
